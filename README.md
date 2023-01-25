@@ -1,8 +1,8 @@
-## linux-and-R-intro
+# Linux-and-R-intro
 
 This is a tutorial covering basic Linux and R concepts. 
 
-### Linux
+## Linux
 
 Linux is a family of open-source operating systems (OS) (e.g. Ubuntu, Fedora, Debian, Android, etc). It provides a high level of security and it is supported on several computer platforms (e.g. desktops, smartphones, mainframes and servers). 
 
@@ -11,7 +11,7 @@ Linux's precursor is the Unix OS---a portable, multi-tasking, bug-fixing, and mu
 The default Linux interface is called BASH (Bourne Again Shell). A shell allows you to "communicate with the computer OS" via a command-line interface (CLI) or graphical user interface (GUI)--depending on the computer's role and general operation. 
  
 
-#### Why should biologists be interested in Linux/Unix?
+### Why should biologists be interested in Linux/Unix?
 
 - Bioinformatics work typically requires putting together several tools to create an analysis pipeline. Linux allows for such integrations in an efficient manner. 
 
@@ -22,7 +22,7 @@ The default Linux interface is called BASH (Bourne Again Shell). A shell allows 
 - Many programming languages (e.g. R and Python) have a cross-platform reference implementation that supports Linux. These languages are needed to facilitate research methodology such as statistical analysis and data visualisation. As a bioinformatics user/scientist is important to know how to work in either R or Python both independent of Linux and also within a Linux/command-line environment. 
 
 
-#### Setup and Installation
+### Setup and Installation
 
 For MacOS and Ubuntu users, you can use the default terminal on you machine. 
 
