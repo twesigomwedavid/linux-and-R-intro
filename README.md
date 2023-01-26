@@ -31,7 +31,7 @@ For MacOS and Ubuntu users, you can use the default terminal on you machine.
 For users with Microsoft Windows computers, please follow the steps below to install the ``Ubuntu terminal`` for Windows (if not installed already). 
 Please note that this is not the same as installing the full Ubuntu OS. Also, you may use other Linux/Unix emulators (such as PUTTY, MobaXterm and Cygwin) that come with command-line terminals, but they may not give the same range of functionality as the Ubuntu terminal. 
 
-##### Step 1: Install the Windows Subsystem for Linux (WSL)
+#### Step 1: Install the Windows Subsystem for Linux (WSL)
 Open the Windows Powershell on your PC (be sure to run this as administrator)
 
 Run the command below within the powershell:
@@ -41,12 +41,12 @@ wsl --install
 
 Restart your PC
 
-##### Step 2: Install the Ubuntu app/terminal for Windows
+#### Step 2: Install the Ubuntu app/terminal for Windows
 This app can be found in the Microsoft store. For purposes of this tutorial, you may install version 20.04. 
 
-##### Step 3: Open the Ubuntu app/terminal from the Start menu on Windows
+#### Step 3: Open the Ubuntu app/terminal from the Start menu on Windows
 Please note that the initial launch may take several minutes. You may be prompted to choose a username and passphrase/password. 
 
-##### Step 4: Understanding the file system within the Ubuntu terminal and the file hierachy on your Windows PC
-When the Ubuntu terminal is launched, you will be in your ``home`` directory by default. The main thing to note is that your Windows disk drives (e.g. ``c`` and ``d`` will be in the /mnt directory (folder) on the Ubuntu terminal. 
+#### Step 4: Understanding the file system within the Ubuntu terminal and the file hierachy on your Windows PC
+When the Ubuntu terminal is launched, you will be in your ``home`` directory by default. The main thing to note is that your Windows disk drives (e.g. ``c`` and ``d``) will be in the /mnt directory (folder) on the Ubuntu terminal. 
 
