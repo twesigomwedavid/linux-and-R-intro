@@ -8,9 +8,8 @@ Linux is a family of open-source operating systems (OS) (e.g. Ubuntu, Fedora, De
 
 Linux's precursor is the Unix OS---a portable, multi-tasking, bug-fixing, and multi-user operating system. In its simplest form, you could think of Unix as a bridge between the user and the computer.
 
-``
-The default Linux interface is called BASH (Bourne Again Shell). A shell allows you to "communicate with the computer OS" via a command-line interface (CLI) or graphical user interface (GUI)--depending on the computer's role and general operation. For this tutorial, the focus will be on using the command-line interface (aka "the black screen"). 
-``
+The default Linux interface is called **BASH** (Bourne Again Shell). A **shell** allows you to "communicate with the computer OS" via a **command-line interface** (CLI) or graphical user interface (GUI)--depending on the computer's role and general operation. For this tutorial, the focus will be on using the command-line interface (aka "the black screen"). 
+
  
 
 ### Why should biologists be interested in Linux/Unix?
@@ -48,5 +47,5 @@ This app can be found in the Microsoft store. For purposes of this tutorial, you
 Please note that the initial launch may take several minutes. You may be prompted to choose a username and passphrase/password. 
 
 #### Step 4: Understanding the file system within the Ubuntu terminal and the file hierachy on your Windows PC
-When the Ubuntu terminal is launched, you will be in your ``home`` directory by default. The main thing to note is that your Windows disk drives (e.g. ``c`` and ``d``) will be in the /mnt directory (folder) on the Ubuntu terminal. 
+When the Ubuntu terminal is launched, you will be in your ``home`` directory by default. The main thing to note is that your Windows disk drives (e.g. ``c`` and ``d``) will be in the ``/mnt`` directory (folder) on the Ubuntu terminal. 
 
