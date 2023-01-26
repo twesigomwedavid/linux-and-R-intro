@@ -8,9 +8,9 @@ Linux is a family of open-source operating systems (OS) (e.g. Ubuntu, Fedora, De
 
 Linux's precursor is the Unix OS---a portable, multi-tasking, bug-fixing, and multi-user operating system. In its simplest form, you could think of Unix as a bridge between the user and the computer.
 
-```
+``
 The default Linux interface is called BASH (Bourne Again Shell). A shell allows you to "communicate with the computer OS" via a command-line interface (CLI) or graphical user interface (GUI)--depending on the computer's role and general operation. For this tutorial, the focus will be on using the command-line interface (aka "the black screen"). 
-```
+``
  
 
 ### Why should biologists be interested in Linux/Unix?
