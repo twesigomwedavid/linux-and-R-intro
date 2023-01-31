@@ -17,7 +17,7 @@
 
 - Understanding the command-line syntax basics e.g. difference between ``options`` and ``arguments``
 
-- Demonstrating the use of tab completion
+- Demonstrating the use of ``tab`` completion
 
 #### Key commands/options:
 ```
