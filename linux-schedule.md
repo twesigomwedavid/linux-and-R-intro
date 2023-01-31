@@ -15,7 +15,7 @@
 
 - Distinguishing between an absolute path and a relative path
 
-- Understanding the command-line syntax basics e.g. difference between options and arguments
+- Understanding the command-line syntax basics e.g. difference between ``options`` and ``arguments``
 
 - Demonstrating the use of tab completion
 
