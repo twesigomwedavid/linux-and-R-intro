@@ -33,6 +33,8 @@ $ man (vs using the --help option)
 #### Learning objectives/outcomes: 
 - Creating, copying, moving, renaming, and deleting files/directories
 
+- Saving output of a command into a file (i.e. redirecting)
+
 - Editing and viewing files
 
 - Using wildcards for accessing multiple files at once
@@ -77,7 +79,7 @@ $ uniq
 $ cut
 ```
 
-### Other file manipulations
+### 2. Other file manipulations
 
 #### Learning objectives/outcomes: 
 
