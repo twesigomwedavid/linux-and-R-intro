@@ -59,16 +59,14 @@ $ wc
 
 ## Session 2
 
-### 1. Working with files and directories (continued)
-
-#### Learning objectives/outcomes: 
+### 1. Searching files and working with pipes and filters
 - Searching for patterns in a file
 
 - Sorting files and finding unique/repeated lines
 
 - Obtaining information on fields (columns) in a file
 
-- Replacing components of a file 
+#### Learning objectives/outcomes: 
 
 #### Key commands/options:
 
@@ -77,9 +75,20 @@ $ grep
 $ sort
 $ uniq
 $ cut
-$ sed
 ```
 
+### Other file manipulations
 
+#### Learning objectives/outcomes: 
 
+- Replacing components of a file 
 
+- Appending text or fields to a file
+
+#### Key commands/options:
+
+```
+$ sort
+$ sed
+$ paste
+```
