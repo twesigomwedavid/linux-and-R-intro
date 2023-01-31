@@ -23,11 +23,17 @@
 
 #### Key commands:
 pwd
+
 ls
+
 mkdir
+
 cd
+
 touch
+
 nano
+
 man (vs using the --help option)
 
 
