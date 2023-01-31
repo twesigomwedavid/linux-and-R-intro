@@ -90,7 +90,6 @@ $ cut
 #### Key commands/options:
 
 ```
-$ sort
 $ sed
 $ paste
 ```
