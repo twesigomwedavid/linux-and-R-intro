@@ -26,7 +26,7 @@ $ ls (and commonly used options)
 $ cd
 $ man (vs using the --help option)
 ```
-*NB: $ represents the shell prompt
+*NB: '$' represents the shell prompt
 
 ### 2. Working with files and directories
 
