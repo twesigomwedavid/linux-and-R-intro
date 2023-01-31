@@ -93,3 +93,6 @@ $ cut
 $ sed
 $ paste
 ```
+
+### References
+This schedule was modeled on the Unix shell material at https://swcarpentry.github.io/shell-novice/. 
