@@ -4,7 +4,7 @@
 
 ### 1. Navigating files and directories 
 
-#### Learning Objectives/outcomes: 
+#### Learning objectives/outcomes: 
 - Understanding the Linux file system
 
 - Moving around on your computer in a Linux environment
@@ -30,7 +30,7 @@ $ man (vs using the --help option)
 
 ### 2. Working with files and directories
 
-#### Learning Objectives/outcomes: 
+#### Learning objectives/outcomes: 
 - Creating, copying, moving, renaming, and deleting files/directories
 
 - Editing files
@@ -47,3 +47,8 @@ $ mv
 $ rm
 $ ls (and wildcard options i.e. * and ?)
 ```
+
+
+### Session 1 — Exercise
+
+
