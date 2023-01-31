@@ -5,15 +5,15 @@
 ### 1. Navigating files and directories 
 
 #### Learning objectives/outcomes: 
-- Understanding the Linux file system
+- Understanding the Linux ``file system``
 
 - Moving around on your computer in a Linux environment
 
-- Displaying/listing files and directories
+- Displaying/listing ``files`` and ``directories``
 
 - Specifying the location of a file or directory on your computer
 
-- Distinguishing between an absolute path and a relative path
+- Distinguishing between an ``absolute path`` and a ``relative path``
 
 - Understanding the command-line syntax basics e.g. difference between ``options`` and ``arguments``
 
