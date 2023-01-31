@@ -1,4 +1,4 @@
-## MSc (Med) Genomic Medicine — Linux Tutorial
+## MSc (Med) Genomic Medicine — Linux Tutorial Schedule
 
 ## Session 1
 
