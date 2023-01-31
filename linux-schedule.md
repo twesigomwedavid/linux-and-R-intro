@@ -22,18 +22,12 @@
 - Demonstrating the use of tab completion
 
 #### Key commands:
-pwd
-
+* pwd
 ls
-
 mkdir
-
 cd
-
 touch
-
 nano
-
 man (vs using the --help option)
 
 
