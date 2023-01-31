@@ -23,12 +23,13 @@
 
 #### Key commands/options:
 ```
-pwd
-ls
-mkdir
-cd
-touch
-nano
-man (vs using the --help option)
+$ pwd
+$ ls
+$ mkdir
+$ cd
+$ touch
+$ nano
+$ man (vs using the --help option)
 ```
+*NB: $ represents the shell prompt
 
