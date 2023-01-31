@@ -28,7 +28,7 @@ $ man (vs using the --help option)
 ```
 *NB: $ represents the shell prompt
 
-### Working with files and directories
+### 2. Working with files and directories
 
 #### Learning Objectives/outcomes: 
 - Creating, copying, moving, renaming, and deleting files/directories
