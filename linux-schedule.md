@@ -1,6 +1,6 @@
-## MSc (Med) Genomic Medicine
+## MSc (Med) Genomic Medicine — Linux Tutorial
 
-## Linux tutorial session 1
+## Session 1
 
 ### 1. Navigating files and directories 
 
@@ -33,22 +33,53 @@ $ man (vs using the --help option)
 #### Learning objectives/outcomes: 
 - Creating, copying, moving, renaming, and deleting files/directories
 
-- Editing files
+- Editing and viewing files
 
 - Using wildcards for accessing multiple files at once
+
+- Obtaining summary information about files (using the ``wc``, ``head``, and ``tail`` commands)
 
 #### Key commands/options:
 ```
 $ mkdir
-$ nano
+$ head
+$ tail
+$ cat
+$ less
+$ more
 $ touch
+$ nano
 $ cp
 $ mv
 $ rm
 $ ls (and wildcard options i.e. * and ?)
+$ wc
 ```
 
 
-### Session 1 — Exercise
+## Session 2
+
+### 1. Working with files and directories (continued)
+
+#### Learning objectives/outcomes: 
+- Searching for patterns in a file
+
+- Sorting files and finding unique/repeated lines
+
+- Obtaining information on fields (columns) in a file
+
+- Replacing components of a file 
+
+#### Key commands/options:
+
+```
+$ grep
+$ sort
+$ uniq
+$ cut
+$ sed
+```
+
+
 
 
