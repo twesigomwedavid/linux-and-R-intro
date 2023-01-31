@@ -22,7 +22,7 @@
 - Demonstrating the use of tab completion
 
 #### Key commands:
-* pwd
+*pwd
 ls
 mkdir
 cd
