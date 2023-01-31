@@ -21,13 +21,14 @@
 
 - Demonstrating the use of tab completion
 
-#### Key commands:
-*pwd
+#### Key commands/options:
+```
+pwd
 ls
 mkdir
 cd
 touch
 nano
 man (vs using the --help option)
-
+```
 
