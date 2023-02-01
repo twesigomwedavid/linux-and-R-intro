@@ -34,11 +34,13 @@ $ man (vs using the --help option)
 ### 2. Working with files and directories
 
 #### Learning objectives/outcomes: 
-- Creating, copying, moving, renaming, and deleting files/directories
+- Creating directories
+
+- Copying, moving, renaming, and deleting files
 
 - Saving output of a command into a file (i.e. redirecting)
 
-- Editing and viewing files
+- Viewing files
 
 - Using wildcards for accessing multiple files at once
 
@@ -53,7 +55,6 @@ $ cat
 $ less
 $ more
 $ touch
-$ nano
 $ cp
 $ mv
 $ rm
@@ -61,8 +62,22 @@ $ ls (and wildcard options i.e. * and ?)
 $ wc
 ```
 
-
 ## Session 2
+
+### 1. Linux exercise recap 
+Discussion and Q & A
+
+### 2. Editing files
+
+#### Learning objectives/outcomes: 
+- Using the ``nano`` file editor
+
+#### Key commands/options:
+```
+$ nano
+```
+
+## Session 3
 
 ### 1. Searching files and working with pipes and filters
 - Searching for patterns in a file
@@ -96,6 +111,15 @@ $ cut
 $ sed
 $ paste
 ```
+
+## Bonus Linux Content
+
+### 1. Introduction to loops
+
+#### Learning objectives/outcomes: 
+
+- Using ``for`` loops in Bash
+
 
 ### References
 This schedule was modeled on the Unix shell material at https://swcarpentry.github.io/shell-novice/. 
