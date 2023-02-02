@@ -1,7 +1,7 @@
 ##fileformat=VCFv4.1
 ##fileDate=20230115
 ##FILTER=<ID=PASS,Description="All filters passed">
-##contig=<ID=chr15,length=83257441>
+##contig=<ID=chr15,length=101991189>
 #CHROM	POS	ID	REF	ALT	QUAL	FILTER	INFO	FORMAT	SAMPLE
 chr15	72344135	rs1448744870	C	G	.	PASS	
 chr15	72344135	rs1448744870	C	T	.	PASS	
