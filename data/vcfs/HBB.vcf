@@ -1,6 +1,10 @@
-chrChromosome	Position	rsIDs	Reference	Alternate	Filters_-_exomes	Filters_-_genomes	ClinVar_Clinical_Significance
+##fileformat=VCFv4.1
+##fileDate=20230115
+##FILTER=<ID=PASS,Description="All filters passed">
+##contig=<ID=chr11,length=135086622>
+#CHROM	POS	ID	REF	ALT	QUAL	FILTER	INFO	FORMAT	SAMPLE
 chr11	5225612	rs33929415	G	A	.	PASS	Likely_benign
-chr11	5225632	rs33949486	C	T	.	PASS	Conflicting_interpretations_of_pathogenicity
+chr11	5225632	rs33949486	C	T	.	LowQual	Conflicting_interpretations_of_pathogenicity
 chr11	5225638	rs33966761	A	T	.	PASS	Pathogenic
 chr11	5225638	rs33966761	A	G	.	PASS	Conflicting_interpretations_of_pathogenicity
 chr11	5225653	rs111645889	G	A	.	PASS	Conflicting_interpretations_of_pathogenicity
@@ -26,14 +30,14 @@ chr11	5226669	rs33916541	C	T	.	PASS	Uncertain_significance
 chr11	5226672	rs33945705	C	T	.	PASS	Likely_benign
 chr11	5226683	rs34718174	C	T	.	PASS	Likely_benign
 chr11	5226684	rs33947415	C	T	.	PASS	Conflicting_interpretations_of_pathogenicity
-chr11	5226704	rs34151786	G	A	.	PASS	
-chr11	5226719	rs34589620	T	C	.	PASS	Uncertain_significance
+chr11	5226704	rs34151786	G	A	.	LowQual	
+chr11	5226719	rs34589620	T	C	.	LowQual	Uncertain_significance
 chr11	5226723	rs33935983	C	T	.	PASS	Uncertain_significance
 chr11	5226729	rs1300930245	C	T	.	PASS	
 chr11	5226735	rs33961886	C	T	.	PASS	Conflicting_interpretations_of_pathogenicity
-chr11	5226737	rs33969727	G	T	.	PASS	
+chr11	5226737	rs33969727	G	T	.	LowQual	
 chr11	5226740	rs34676051	G	C	.	PASS	
-chr11	5226741	rs63750336	T	A	.	PASS	Uncertain_significance
+chr11	5226741	rs63750336	T	A	.	LowQual	Uncertain_significance
 chr11	5226743	rs33960931	G	A	.	PASS	Uncertain_significance
 chr11	5226761	rs35262412	T	G	.	PASS	Conflicting_interpretations_of_pathogenicity
 chr11	5226769	rs33918778	C	A	.	PASS	Uncertain_significance
