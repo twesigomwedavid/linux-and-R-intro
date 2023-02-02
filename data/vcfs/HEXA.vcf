@@ -1,7 +1,10 @@
-chrChromosome	Position	rsIDs	Reference	Alternate	Filters_-_exomes	Filters_-_genomes	ClinVar_Clinical_Significance
+##fileformat=VCFv4.1
+##fileDate=20230115
+##FILTER=<ID=PASS,Description="All filters passed">
+##contig=<ID=chr15,length=101991189>
 chr15	72344135	rs1448744870	C	G	.	PASS	
 chr15	72344135	rs1448744870	C	T	.	PASS	
-chr15	72344138	rs745432499	C	T	.	PASS	Uncertain_significance
+chr15	72344138	rs745432499	C	T	.	LowQual	Uncertain_significance
 chr15	72345455	rs778293061	T	C	.	PASS	
 chr15	72345461	rs121907955	C	T	.	PASS	Pathogenic/Likely_pathogenic
 chr15	72345462	rs28942071	G	A	.	PASS	Pathogenic/Likely_pathogenic
@@ -10,21 +13,21 @@ chr15	72345477	rs121907966	G	A	.	PASS	Pathogenic/Likely_pathogenic
 chr15	72345482	rs147502219	T	C	.	PASS	Uncertain_significance
 chr15	72345485	rs373781108	G	C	.	PASS	
 chr15	72345496	rs1185080097	G	C	.	PASS	Uncertain_significance
-chr15	72345497	rs761736583	T	C	.	PASS	Uncertain_significance
+chr15	72345497	rs761736583	T	C	.	LowQual	Uncertain_significance
 chr15	72345498	rs767554113	C	G	.	PASS	
-chr15	72345511	rs773338562	G	T	.	PASS	
+chr15	72345511	rs773338562	G	T	.	LowQual	
 chr15	72345524	rs766483588	C	T	.	PASS	
 chr15	72345528	rs121907952	C	T	.	PASS	Pathogenic/Likely_pathogenic
 chr15	72345533	rs376929315	A	G	.	PASS	
 chr15	72345534	rs370638338	C	T	.	PASS	Uncertain_significance
-chr15	72345537	rs145012038	C	T	.	PASS	Conflicting_interpretations_of_pathogenicity
+chr15	72345537	rs145012038	C	T	.	LowQual	Conflicting_interpretations_of_pathogenicity
 chr15	72345543	rs1020196816	C	A	.	PASS	
 chr15	72345550	rs121907981	C	G	.	PASS	Pathogenic
 chr15	72346235	rs762374961	C	A	.	PASS	Uncertain_significance
 chr15	72346240	rs369117208	C	G	.	PASS	Uncertain_significance
 chr15	72346257	rs765590079	T	C	.	PASS	
-chr15	72346259	rs200936836	T	C	.	PASS	Conflicting_interpretations_of_pathogenicity
-chr15	72346263	rs750727201	C	T	.	PASS	Conflicting_interpretations_of_pathogenicity
+chr15	72346259	rs200936836	T	C	.	LowQual	Conflicting_interpretations_of_pathogenicity
+chr15	72346263	rs750727201	C	T	.	LowQual	Conflicting_interpretations_of_pathogenicity
 chr15	72346274	rs375019490	C	T	.	PASS	
 chr15	72346281	rs547192168	T	A	.	PASS	
 chr15	72346281	rs547192168	T	C	.	PASS	Uncertain_significance
@@ -81,7 +84,7 @@ chr15	72349112	rs766622566	T	C	.	PASS
 chr15	72349118	rs1222599742	T	C	.	PASS	
 chr15	72349119	rs754013071	A	G	.	PASS	
 chr15	72349147	rs121907960	TAAG	T	.	PASS	Pathogenic/Likely_pathogenic
-chr15	72349157	rs1181164048	G	A	.	PASS	
+chr15	72349157	rs1181164048	G	A	.	LowQual	
 chr15	72349158	rs759837903	T	A	.	PASS	
 chr15	72349163	rs121907977	A	C	.	PASS	Conflicting_interpretations_of_pathogenicity
 chr15	72349164	rs758871181	T	G	.	PASS	Uncertain_significance
@@ -100,8 +103,8 @@ chr15	72350559	rs370576428	G	C	.	PASS	Uncertain_significance
 chr15	72350560	rs533004263	C	T	.	PASS	
 chr15	72350560	rs533004263	C	A	.	PASS	
 chr15	72350568	rs762255098	C	T	.	PASS	Pathogenic
-chr15	72350569	rs566580738	G	A	.	PASS	Pathogenic/Likely_pathogenic
-chr15	72350578	rs138058578	G	A	.	PASS	Benign;_other
+chr15	72350569	rs566580738	G	A	.	LowQual	Pathogenic/Likely_pathogenic
+chr15	72350578	rs138058578	G	A	.	LowQual	Benign;_other
 chr15	72350583	rs1360213217	C	T	.	PASS	Uncertain_significance
 chr15	72350584	rs121907970	G	A	.	PASS	Conflicting_interpretations_of_pathogenicity;_other
 chr15	72350587	rs758166013	C	T	.	PASS	Conflicting_interpretations_of_pathogenicity
@@ -118,7 +121,7 @@ chr15	72351224	rs778947516	G	A	.	PASS	Uncertain_significance
 chr15	72351224	rs778947516	G	T	.	PASS	
 chr15	72351231	rs387906310	C	T	.	PASS	Uncertain_significance
 chr15	72353090	rs185797496	A	T	.	PASS	Likely_benign
-chr15	72353093	rs148511084	G	A	.	PASS	Uncertain_significance
+chr15	72353093	rs148511084	G	A	.	LowQual	Uncertain_significance
 chr15	72353102	rs747372270	T	C	.	PASS	Conflicting_interpretations_of_pathogenicity
 chr15	72353103	rs781493030	G	A	.	PASS	Uncertain_significance
 chr15	72353105	rs28941770	C	A	.	PASS	Affects
@@ -132,7 +135,7 @@ chr15	72353163	rs1390546999	T	C	.	PASS
 chr15	72353695	rs375727994	C	A	.	PASS	
 chr15	72353722	rs1273494297	C	A	.	PASS	Uncertain_significance
 chr15	72353732	rs1567299630	C	G	.	PASS	
-chr15	72355561	rs769724246	C	T	.	PASS	Uncertain_significance
+chr15	72355561	rs769724246	C	T	.	LowQual	Uncertain_significance
 chr15	72355583	rs917904407	C	G	.	PASS	Uncertain_significance
 chr15	72355589	rs1386300819	G	A	.	PASS	
 chr15	72355598	rs1365750130	A	C	.	PASS	Uncertain_significance
@@ -153,14 +156,14 @@ chr15	72370618	rs1198395844	G	C	.	PASS
 chr15	72370627	rs1434464093	T	A	.	PASS	
 chr15	72370629	rs967063736	C	T	.	PASS	
 chr15	72370632	rs998536663	G	A	.	PASS	
-chr15	72370646	rs149661366	G	A	.	PASS	Likely_benign
+chr15	72370646	rs149661366	G	A	.	LowQual	Likely_benign
 chr15	72370662	rs1019016243	A	C	.	PASS	
 chr15	72370676	rs897885889	G	A	.	PASS	
 chr15	72370688	rs1457576856	C	T	.	PASS	
 chr15	72370688	rs1457576856	C	A	.	PASS	
-chr15	72375732	rs144231599	G	T	.	PASS	Uncertain_significance
+chr15	72375732	rs144231599	G	T	.	LowQual	Uncertain_significance
 chr15	72375756	rs1231659381	A	T	.	PASS	
-chr15	72375776	rs753442808	T	C	.	PASS	Uncertain_significance
+chr15	72375776	rs753442808	T	C	.	LowQual	Uncertain_significance
 chr15	72375789	rs1305641242	C	T	.	PASS	
 chr15	72375797	rs146577256	G	A	.	PASS	
 chr15	72375800	rs387906949	C	A	.	PASS	
@@ -176,10 +179,10 @@ chr15	72375869	rs140868947	T	G	.	PASS	Uncertain_significance
 chr15	72375878	rs1193338665	G	A	.	PASS	
 chr15	72375908	rs750498339	G	A	.	PASS	
 chr15	72375918	rs1166889033	G	A	.	PASS	Uncertain_significance
-chr15	72375920	rs371133961	C	T	.	PASS	Uncertain_significance
+chr15	72375920	rs371133961	C	T	.	LowQual	Uncertain_significance
 chr15	72375935	rs145666272	G	A	.	PASS	Uncertain_significance
 chr15	72375958	rs1194893602	C	G	.	PASS	
-chr15	72375963	rs146938346	A	G	.	PASS	Uncertain_significance
+chr15	72375963	rs146938346	A	G	.	LowQual	Uncertain_significance
 chr15	72375965	rs374524755	C	G	.	PASS	Likely_benign
 chr15	72375971	rs786204721	A	G	.	PASS	Pathogenic/Likely_pathogenic
 chr15	72375972	rs121907965	T	C	.	PASS	Pathogenic
