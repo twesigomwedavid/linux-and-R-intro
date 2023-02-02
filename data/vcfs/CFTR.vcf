@@ -1,0 +1,673 @@
+chrChromosome	Position	rsIDs	Reference	Alternate	Filters_-_exomes	Filters_-_genomes	ClinVar_Clinical_Significance
+chr7	117480081	rs397508136	GCGCCCGAGAGACCATGCAGAGGT	G	.	PASS	Pathogenic
+chr7	117480102	rs1052894635	G	T	.	PASS	Uncertain_significance
+chr7	117480105	rs397508173	C	T	.	PASS	
+chr7	117480108	rs193922501	C	T	.	PASS	Conflicting_interpretations_of_pathogenicity
+chr7	117480117	rs1204115625	A	G	.	PASS	Uncertain_significance
+chr7	117480120	rs949472192	C	T	.	PASS	Uncertain_significance
+chr7	117480125	rs1800072	G	A	.	PASS	Uncertain_significance
+chr7	117480134	rs397508673	A	G	.	PASS	Uncertain_significance
+chr7	117480135	rs772774651	A	T	.	PASS	Uncertain_significance
+chr7	117480135	rs772774651	A	G	.	PASS	
+chr7	117480143	rs779256353	T	C	.	PASS	Uncertain_significance
+chr7	117504261	rs777520137	G	T	.	PASS	Uncertain_significance
+chr7	117504269	rs1056986309	T	G	.	PASS	Uncertain_significance
+chr7	117504277	rs1379722065	A	C	.	PASS	
+chr7	117504281	rs1012752433	T	C	.	PASS	
+chr7	117504290	rs1800073	C	T	.	PASS	Conflicting_interpretations_of_pathogenicity
+chr7	117504290	rs1800073	C	A	.	PASS	
+chr7	117504291	rs149353983	G	A	.	PASS	Uncertain_significance
+chr7	117504291	rs149353983	G	T	.	PASS	Uncertain_significance
+chr7	117504311	rs373112861	T	C	.	PASS	Uncertain_significance
+chr7	117504312	rs758826243	A	G	.	PASS	Uncertain_significance
+chr7	117504324	rs143456784	C	T	.	PASS	Uncertain_significance
+chr7	117504326	rs370586917	G	A	.	PASS	Uncertain_significance
+chr7	117504326	rs370586917	G	C	.	PASS	
+chr7	117504327	rs754657555	T	C	.	PASS	Likely_benign
+chr7	117504330	rs1800074	A	T	.	PASS	
+chr7	117504336	rs151020603	C	T	.	PASS	Conflicting_interpretations_of_pathogenicity
+chr7	117504341	rs1248202161	A	C	.	PASS	Uncertain_significance
+chr7	117504345	rs556662007	T	C	.	PASS	
+chr7	117504348	rs397508220	C	A	.	PASS	Uncertain_significance
+chr7	117504360	rs1320388257	A	G	.	PASS	Uncertain_significance
+chr7	117509049	rs569426839	G	C	.	PASS	Uncertain_significance
+chr7	117509069	rs368505753	C	T	.	PASS	Pathogenic;_drug_response
+chr7	117509071	rs397508332	A	G	.	PASS	Conflicting_interpretations_of_pathogenicity
+chr7	117509073	rs397508335	A	T	.	PASS	Uncertain_significance
+chr7	117509074	rs372421038	C	G	.	PASS	
+chr7	117509086	rs762298973	C	T	.	PASS	
+chr7	117509089	rs115545701	C	T	.	PASS	drug_response
+chr7	117509090	rs142540482	G	A	.	PASS	Conflicting_interpretations_of_pathogenicity
+chr7	117509093	rs1800076	G	A	.	PASS	Conflicting_interpretations_of_pathogenicity
+chr7	117509093	rs1800076	G	T	.	PASS	Uncertain_significance
+chr7	117509095	rs757959325	T	C	.	PASS	Uncertain_significance
+chr7	117509101	rs1181846000	T	C	.	PASS	Uncertain_significance
+chr7	117509115	rs1159096947	G	A	.	PASS	Uncertain_significance
+chr7	117509119	rs745756794	T	C	.	PASS	Uncertain_significance
+chr7	117509120	rs769754499	A	G	.	PASS	
+chr7	117509123	rs75961395	G	A	.	PASS	Pathogenic
+chr7	117509125	rs749432776	A	G	.	PASS	Uncertain_significance
+chr7	117509129	rs1310658028	T	C	.	PASS	Uncertain_significance
+chr7	117509132	rs397508412	T	C	.	PASS	not_provided
+chr7	117509133	rs149662778	A	C	.	PASS	Uncertain_significance
+chr7	117509135	rs397508418	A	G	.	PASS	Uncertain_significance
+chr7	117530906	rs767204327	C	T	.	PASS	Uncertain_significance
+chr7	117530915	rs1235363099	T	C	.	PASS	Uncertain_significance
+chr7	117530918	rs397508464	A	G	.	PASS	Pathogenic
+chr7	117530935	rs369715785	A	G	.	PASS	
+chr7	117530950	rs397508522	T	C	.	PASS	Likely_pathogenic
+chr7	117530953	rs113993958	G	C	.	PASS	Pathogenic;_drug_response
+chr7	117530953	rs113993958	G	T	.	PASS	Conflicting_interpretations_of_pathogenicity
+chr7	117530957	rs140502196	C	T	.	PASS	Conflicting_interpretations_of_pathogenicity
+chr7	117530960	rs770241677	A	G	.	PASS	Uncertain_significance
+chr7	117530974	rs77834169	C	G	.	PASS	Conflicting_interpretations_of_pathogenicity
+chr7	117530974	rs77834169	C	T	.	PASS	Pathogenic
+chr7	117530975	rs78655421	G	A	.	PASS	Pathogenic
+chr7	117530975	rs78655421	G	T	.	PASS	Conflicting_interpretations_of_pathogenicity
+chr7	117530980	rs193922518	A	G	.	PASS	Uncertain_significance
+chr7	117530983	rs201958172	G	A	.	PASS	Conflicting_interpretations_of_pathogenicity
+chr7	117530986	rs574654063	A	T	.	PASS	
+chr7	117530990	rs377295859	A	G	.	PASS	Uncertain_significance
+chr7	117530999	rs141723617	T	C	.	PASS	Conflicting_interpretations_of_pathogenicity
+chr7	117531002	rs397508609	G	C	.	PASS	Uncertain_significance
+chr7	117531002	rs397508609	G	T	.	PASS	Uncertain_significance
+chr7	117531013	rs397508632	C	G	.	PASS	Uncertain_significance
+chr7	117531016	rs780492177	T	C	.	PASS	Uncertain_significance
+chr7	117531035	rs397508674	T	C	.	PASS	Conflicting_interpretations_of_pathogenicity
+chr7	117531036	rs397508686	C	CCTA	.	PASS	Pathogenic
+chr7	117531038	rs1800078	T	C	.	PASS	Uncertain_significance
+chr7	117531043	rs145900055	C	T	.	PASS	Uncertain_significance
+chr7	117531047	rs397508700	C	A	.	PASS	Likely_pathogenic
+chr7	117531066	rs759310470	C	G	.	PASS	Uncertain_significance
+chr7	117531068	rs35516286	T	C	.	PASS	Conflicting_interpretations_of_pathogenicity
+chr7	117531068	rs35516286	T	A	.	PASS	Conflicting_interpretations_of_pathogenicity
+chr7	117531071	rs397508719	G	A	.	PASS	
+chr7	117531076	rs397508720	C	A	.	PASS	Uncertain_significance
+chr7	117531079	rs397508721	A	T	.	PASS	Uncertain_significance
+chr7	117531088	rs397508723	G	T	.	PASS	
+chr7	117531091	rs374689323	A	G	.	PASS	Uncertain_significance
+chr7	117531097	rs397508724	A	G	.	PASS	
+chr7	117531098	rs397508725	G	C	.	PASS	Uncertain_significance
+chr7	117531098	rs397508725	G	A	.	PASS	Conflicting_interpretations_of_pathogenicity
+chr7	117531101	rs397508727	T	C	.	PASS	Conflicting_interpretations_of_pathogenicity
+chr7	117531109	rs397508731	A	G	.	PASS	Conflicting_interpretations_of_pathogenicity
+chr7	117534276	rs200885306	A	G	.	PASS	Uncertain_significance
+chr7	117534294	rs578029902	C	T	.	PASS	Uncertain_significance
+chr7	117534294	rs578029902	C	A	.	PASS	Uncertain_significance
+chr7	117534295	rs1800079	G	A	.	PASS	Conflicting_interpretations_of_pathogenicity
+chr7	117534313	rs762849766	G	C	.	PASS	
+chr7	117534315	rs1267579802	A	T	.	PASS	Uncertain_significance
+chr7	117534321	rs367850319	C	A	.	PASS	Uncertain_significance
+chr7	117534324	rs374163420	C	G	.	PASS	Uncertain_significance
+chr7	117534333	rs397508751	C	A	.	PASS	Conflicting_interpretations_of_pathogenicity
+chr7	117534357	rs141482808	T	G	.	PASS	Pathogenic
+chr7	117535249	rs397508763	G	T	.	PASS	Conflicting_interpretations_of_pathogenicity
+chr7	117535261	rs73215910	C	T	.	PASS	Uncertain_significance
+chr7	117535263	rs121908802	C	T	.	PASS	Pathogenic
+chr7	117535268	rs753492211	C	A	.	PASS	
+chr7	117535269	rs138338446	G	A	.	PASS	Uncertain_significance
+chr7	117535278	rs748026786	G	A	.	PASS	Uncertain_significance
+chr7	117535281	rs121908803	C	T	.	PASS	Pathogenic
+chr7	117535282	rs397508769	C	T	.	PASS	
+chr7	117535285	rs121908752	T	G	.	PASS	Pathogenic;_drug_response
+chr7	117535293	rs397508772	G	T	.	PASS	Uncertain_significance
+chr7	117535302	rs540269075	A	G	.	PASS	Uncertain_significance
+chr7	117535306	rs775701644	G	A	.	PASS	Uncertain_significance
+chr7	117535316	rs397508776	G	T	.	PASS	Uncertain_significance
+chr7	117535318	rs121909046	A	G	.	PASS	Conflicting_interpretations_of_pathogenicity
+chr7	117535327	rs397508779	A	C	.	PASS	
+chr7	117535330	rs752432390	C	T	.	PASS	Uncertain_significance
+chr7	117535342	rs866473559	G	A	.	PASS	Uncertain_significance
+chr7	117535363	rs397508783	T	A	.	PASS	Pathogenic
+chr7	117535365	rs775713428	C	T	.	PASS	Uncertain_significance
+chr7	117535365	rs775713428	C	G	.	PASS	Uncertain_significance
+chr7	117535368	rs763097577	G	T	.	PASS	Uncertain_significance
+chr7	117535375	rs550709226	T	C	.	PASS	
+chr7	117535377	rs397508784	C	G	.	PASS	Conflicting_interpretations_of_pathogenicity
+chr7	117535380	rs1413926814	G	T	.	PASS	Uncertain_significance
+chr7	117535383	rs397508788	G	A	.	PASS	Uncertain_significance
+chr7	117535386	rs199865300	C	G	.	PASS	Uncertain_significance
+chr7	117535389	rs397508789	G	A	.	PASS	not_provided
+chr7	117535395	rs763914313	A	G	.	PASS	Uncertain_significance
+chr7	117535396	rs751401915	T	C	.	PASS	Uncertain_significance
+chr7	117535398	rs562538994	A	G	.	PASS	
+chr7	117536558	rs748582435	G	C	.	PASS	Uncertain_significance
+chr7	117536562	rs1214138761	G	A	.	PASS	
+chr7	117536570	rs773790621	A	G	.	PASS	Uncertain_significance
+chr7	117536576	rs191456345	A	G	.	PASS	Conflicting_interpretations_of_pathogenicity
+chr7	117536577	rs377514639	G	T	.	PASS	Uncertain_significance
+chr7	117536598	rs148519623	T	G	.	PASS	Conflicting_interpretations_of_pathogenicity
+chr7	117536610	rs201016820	T	C	.	PASS	Uncertain_significance
+chr7	117536635	rs397508801	GGAA	G	.	PASS	not_provided
+chr7	117536636	rs1204903316	G	A	.	PASS	
+chr7	117536641	rs773509355	A	T	.	PASS	Uncertain_significance
+chr7	117536642	rs749377803	G	T	.	PASS	Uncertain_significance
+chr7	117536645	rs755215339	A	G	.	PASS	Uncertain_significance
+chr7	117536646	rs397508802	T	C	.	PASS	Uncertain_significance
+chr7	117536650	rs142864834	A	T	.	PASS	Uncertain_significance
+chr7	117536657	rs151073129	A	T	.	PASS	Benign/Likely_benign
+chr7	117536663	rs397508804	A	T	.	PASS	Conflicting_interpretations_of_pathogenicity
+chr7	117536665	rs112162204	C	G	.	PASS	Uncertain_significance
+chr7	117540102	rs779120165	C	T	.	PASS	
+chr7	117540119	rs397508814	C	T	.	PASS	Uncertain_significance
+chr7	117540120	rs143486492	G	A	.	PASS	Conflicting_interpretations_of_pathogenicity
+chr7	117540132	rs150691494	A	G	.	PASS	Uncertain_significance
+chr7	117540143	rs201885470	T	G	.	PASS	Uncertain_significance
+chr7	117540147	rs746375310	A	G	.	PASS	Uncertain_significance
+chr7	117540155	rs148013312	G	A	.	PASS	Uncertain_significance
+chr7	117540156	rs397508818	C	G	.	PASS	Conflicting_interpretations_of_pathogenicity
+chr7	117540156	rs121908768	CCTT	C	.	PASS	Pathogenic/Likely_pathogenic
+chr7	117540160	rs1230103075	C	G	.	PASS	
+chr7	117540171	rs75763344	G	A	.	PASS	Conflicting_interpretations_of_pathogenicity
+chr7	117540174	rs760319837	T	C	.	PASS	Uncertain_significance
+chr7	117540178	rs78742051	T	G	.	PASS	Uncertain_significance
+chr7	117540188	rs144476686	T	G	.	PASS	Conflicting_interpretations_of_pathogenicity
+chr7	117540190	rs56093012	A	T	.	PASS	Uncertain_significance
+chr7	117540194	rs1800085	G	A	.	PASS	Uncertain_significance
+chr7	117540200	rs867392195	C	G	.	PASS	
+chr7	117540204	rs373998255	A	G	.	PASS	Uncertain_significance
+chr7	117540210	rs141115171	T	G	.	PASS	Uncertain_significance
+chr7	117540227	rs193922533	C	T	.	PASS	Uncertain_significance
+chr7	117540230	rs121909011	C	T	.	PASS	Pathogenic
+chr7	117540231	rs397508137	G	T	.	PASS	Pathogenic
+chr7	117540231	rs397508137	G	A	.	PASS	Conflicting_interpretations_of_pathogenicity
+chr7	117540233	rs1431852129	A	G	.	PASS	Uncertain_significance
+chr7	117540237	rs397508139	T	C	.	PASS	
+chr7	117540243	rs77409459	C	T	.	PASS	Pathogenic
+chr7	117540269	rs397508147	C	T	.	PASS	Conflicting_interpretations_of_pathogenicity
+chr7	117540270	rs77932196	G	C	.	PASS	Pathogenic
+chr7	117540270	rs77932196	G	A	.	PASS	Pathogenic
+chr7	117540272	rs1184582207	A	G	.	PASS	
+chr7	117540273	rs142920240	T	A	.	PASS	Conflicting_interpretations_of_pathogenicity
+chr7	117540276	rs121909021	C	T	.	PASS	Uncertain_significance
+chr7	117540282	rs1800086	C	G	.	PASS	Conflicting_interpretations_of_pathogenicity
+chr7	117540282	rs1800086	C	T	.	PASS	Conflicting_interpretations_of_pathogenicity
+chr7	117540284	rs193922497	C	T	.	PASS	Conflicting_interpretations_of_pathogenicity
+chr7	117540294	rs562012226	C	T	.	PASS	
+chr7	117540297	rs573808767	G	C	.	PASS	Uncertain_significance
+chr7	117540309	rs75053309	C	T	.	PASS	Uncertain_significance
+chr7	117540321	rs1175337832	C	G	.	PASS	Uncertain_significance
+chr7	117540342	rs140026105	T	C	.	PASS	
+chr7	117542016	rs556880586	G	A	.	PASS	Conflicting_interpretations_of_pathogenicity
+chr7	117542024	rs73215912	A	C	.	PASS	Conflicting_interpretations_of_pathogenicity
+chr7	117542032	rs768589673	A	G	.	PASS	Uncertain_significance
+chr7	117542047	rs397508166	T	C	.	PASS	Uncertain_significance
+chr7	117542051	rs1169425480	A	C	.	PASS	
+chr7	117542062	rs143860237	C	T	.	PASS	Conflicting_interpretations_of_pathogenicity
+chr7	117542088	rs1225700054	G	A	.	PASS	
+chr7	117542095	rs146463120	C	T	.	PASS	Uncertain_significance
+chr7	117542098	rs1325574209	T	C	.	PASS	Uncertain_significance
+chr7	117548641	rs200899224	G	C	.	PASS	Uncertain_significance
+chr7	117548648	rs559197407	G	A	.	PASS	Uncertain_significance
+chr7	117548650	rs766063304	G	A	.	PASS	Uncertain_significance
+chr7	117548663	rs1341247313	A	G	.	PASS	
+chr7	117548678	rs777850419	A	G	.	PASS	Uncertain_significance
+chr7	117548684	rs397508185	A	G	.	PASS	Uncertain_significance
+chr7	117548689	rs377629509	A	G	.	PASS	Uncertain_significance
+chr7	117548699	rs1477185739	A	G	.	PASS	
+chr7	117548700	rs376039579	T	A	.	PASS	Uncertain_significance
+chr7	117548701	rs371107552	G	A	.	PASS	Uncertain_significance
+chr7	117548713	rs563443356	C	A	.	PASS	Uncertain_significance
+chr7	117548722	rs772853317	A	G	.	PASS	Uncertain_significance
+chr7	117548723	rs1421684452	G	A	.	PASS	
+chr7	117548732	rs367934560	C	T	.	PASS	
+chr7	117548746	rs397508187	C	T	.	PASS	Conflicting_interpretations_of_pathogenicity
+chr7	117548758	rs147422190	G	T	.	PASS	Conflicting_interpretations_of_pathogenicity
+chr7	117548762	rs397508191	T	C	.	PASS	Conflicting_interpretations_of_pathogenicity
+chr7	117548771	rs746941790	A	G	.	PASS	Uncertain_significance
+chr7	117548774	rs748642635	T	C	.	PASS	Uncertain_significance
+chr7	117548777	rs1293018753	A	G	.	PASS	
+chr7	117548780	rs1334881836	G	T	.	PASS	Uncertain_significance
+chr7	117548782	rs1359327577	G	A	.	PASS	
+chr7	117548795	rs74551128	C	T	.	PASS	Conflicting_interpretations_of_pathogenicity
+chr7	117548795	rs74551128	C	A	.	PASS	Pathogenic
+chr7	117548797	rs397508195	G	T	.	PASS	Likely_pathogenic
+chr7	117548797	rs397508195	G	C	.	PASS	
+chr7	117548798	rs193922500	T	C	.	PASS	Pathogenic
+chr7	117548806	rs1455948000	T	A	.	PASS	
+chr7	117548809	rs1367483657	A	G	.	PASS	
+chr7	117559465	rs758900656	C	A	.	PASS	Conflicting_interpretations_of_pathogenicity
+chr7	117559470	rs1800089	C	T	.	PASS	Conflicting_interpretations_of_pathogenicity
+chr7	117559471	rs139573311	T	C	.	PASS	Pathogenic
+chr7	117559476	rs397508203	A	G	.	PASS	Pathogenic/Likely_pathogenic
+chr7	117559478	rs143218779	G	T	.	PASS	not_provided
+chr7	117559479	rs213950	G	A	.	PASS	Benign/Likely_benign
+chr7	117559500	rs139054556	C	T	.	PASS	Uncertain_significance
+chr7	117559501	rs886044297	C	A	.	PASS	Uncertain_significance
+chr7	117559508	rs754152822	G	C	.	PASS	Uncertain_significance
+chr7	117559509	rs79282516	G	T	.	PASS	Pathogenic/Likely_pathogenic
+chr7	117559521	rs397508210	C	T	.	PASS	Uncertain_significance
+chr7	117559524	rs138427145	A	T	.	PASS	Uncertain_significance
+chr7	117559525	rs143980575	G	C	.	PASS	Uncertain_significance
+chr7	117559543	rs778205742	G	T	.	PASS	Uncertain_significance
+chr7	117559549	rs397508214	A	G	.	PASS	Likely_pathogenic
+chr7	117559551	rs1466073638	T	G	.	PASS	Uncertain_significance
+chr7	117559559	rs200626971	G	C	.	PASS	
+chr7	117559566	rs397508219	C	G	.	PASS	Uncertain_significance
+chr7	117559566	rs397508219	C	T	.	PASS	Uncertain_significance
+chr7	117559569	rs1562898413	G	A	.	PASS	
+chr7	117559576	rs397508222	T	C	.	PASS	Pathogenic
+chr7	117559586	rs121908745	TATC	T	.	PASS	Pathogenic
+chr7	117559587	rs1800091	A	G	.	PASS	Conflicting_interpretations_of_pathogenicity
+chr7	117559589	rs1800092	C	G	.	PASS	Conflicting_interpretations_of_pathogenicity
+chr7	117559590	rs113993960	ATCT	A	.	PASS	Pathogenic
+chr7	117559590	rs1801178	A	G	.	PASS	Benign/Likely_benign
+chr7	117559593	rs753920616	T	G	.	PASS	
+chr7	117559594	rs74571530	T	G	.	PASS	Conflicting_interpretations_of_pathogenicity
+chr7	117559612	rs1174624989	A	C	.	PASS	Uncertain_significance
+chr7	117559615	rs1554384431	A	G	.	PASS	Uncertain_significance
+chr7	117559623	rs1562898497	A	G	.	PASS	Uncertain_significance
+chr7	117559629	rs77646904	G	A	.	PASS	Conflicting_interpretations_of_pathogenicity
+chr7	117559629	rs77646904	G	T	.	PASS	Pathogenic
+chr7	117559632	rs1360070384	A	C	.	PASS	Uncertain_significance
+chr7	117559634	rs140552874	C	G	.	PASS	Uncertain_significance
+chr7	117559641	rs368516826	T	C	.	PASS	Conflicting_interpretations_of_pathogenicity
+chr7	117559651	rs374453187	A	G	.	PASS	Conflicting_interpretations_of_pathogenicity
+chr7	117559653	rs773018372	G	A	.	PASS	Uncertain_significance
+chr7	117559655	rs1800095	G	T	.	PASS	Uncertain_significance
+chr7	117587743	rs1338239866	T	A	.	PASS	Likely_pathogenic
+chr7	117587750	rs1451607172	G	T	.	PASS	
+chr7	117587755	rs387906368	C	A	.	PASS	Uncertain_significance
+chr7	117587757	rs1269344369	G	A	.	PASS	Uncertain_significance
+chr7	117587760	rs148173473	A	G	.	PASS	Uncertain_significance
+chr7	117587768	rs1196851290	T	A	.	PASS	Uncertain_significance
+chr7	117587770	rs144745159	T	C	.	PASS	Uncertain_significance
+chr7	117587772	rs187318937	G	A	.	PASS	Uncertain_significance
+chr7	117587784	rs762224063	G	A	.	PASS	Uncertain_significance
+chr7	117587788	rs1387755887	G	A	.	PASS	Uncertain_significance
+chr7	117587790	rs1194722899	A	T	.	PASS	
+chr7	117587794	rs1429531030	C	T	.	PASS	
+chr7	117587800	rs121908755	G	A	.	PASS	Pathogenic;_drug_response
+chr7	117587801	rs121909005	T	G	.	PASS	Pathogenic;_drug_response
+chr7	117587806	rs75527207	G	A	.	PASS	Pathogenic
+chr7	117587820	rs75789129	A	G	.	PASS	Conflicting_interpretations_of_pathogenicity
+chr7	117587823	rs746642567	T	A	.	PASS	Uncertain_significance
+chr7	117587827	rs193922504	T	C	.	PASS	Pathogenic
+chr7	117587829	rs75549581	G	A	.	PASS	Pathogenic
+chr7	117587833	rs80055610	G	C	.	PASS	Pathogenic
+chr7	117590355	rs121909047	C	A	.	PASS	Pathogenic
+chr7	117590357	rs1800097	G	A	.	PASS	Conflicting_interpretations_of_pathogenicity
+chr7	117590357	rs1800097	G	C	.	PASS	Uncertain_significance
+chr7	117590360	rs121909006	T	A	.	PASS	Pathogenic
+chr7	117590364	rs375325315	A	G	.	PASS	Uncertain_significance
+chr7	117590367	rs397508270	A	G	.	PASS	Conflicting_interpretations_of_pathogenicity
+chr7	117590378	rs397508276	T	G	.	PASS	Pathogenic
+chr7	117590391	rs772223589	C	T	.	PASS	Uncertain_significance
+chr7	117590394	rs121908758	C	A	.	PASS	Pathogenic
+chr7	117590397	rs773569201	T	A	.	PASS	Conflicting_interpretations_of_pathogenicity
+chr7	117590400	rs1800098	G	C	.	PASS	Conflicting_interpretations_of_pathogenicity
+chr7	117590405	rs979121392	C	G	.	PASS	Uncertain_significance
+chr7	117590417	rs397508292	A	T	.	PASS	Uncertain_significance
+chr7	117590418	rs397508293	C	T	.	PASS	Conflicting_interpretations_of_pathogenicity
+chr7	117590421	rs1421257199	A	G	.	PASS	
+chr7	117590439	rs397508300	G	A	.	PASS	Conflicting_interpretations_of_pathogenicity
+chr7	117591952	rs1405593377	G	T	.	PASS	
+chr7	117591959	rs397508302	A	G	.	PASS	Uncertain_significance
+chr7	117591968	rs397508306	A	T	.	PASS	Pathogenic
+chr7	117591968	rs397508306	A	G	.	PASS	Uncertain_significance
+chr7	117591974	rs143036685	G	A	.	PASS	Uncertain_significance
+chr7	117591978	rs397508308	C	G	.	PASS	Uncertain_significance
+chr7	117591983	rs121908777	AAAATGGAACATTTAAAGAAAGCTGACAAAATATTAATTTTGCATGAAGGTAGCAGCTATTTTTATGGGACATTTTCAGAACTCC	A	.	PASS	Pathogenic
+chr7	117591983	rs1246352487	A	G	.	PASS	
+chr7	117591993	rs397508310	A	G	.	PASS	Pathogenic
+chr7	117591997	rs1048183757	A	T	.	PASS	Conflicting_interpretations_of_pathogenicity
+chr7	117592004	rs201978662	G	A	.	PASS	Pathogenic
+chr7	117592008	rs201124247	A	G	.	PASS	Conflicting_interpretations_of_pathogenicity
+chr7	117592020	rs139468767	T	C	.	PASS	Pathogenic/Likely_pathogenic
+chr7	117592026	rs397508314	A	T	.	PASS	
+chr7	117592032	rs121908759	G	A	.	PASS	Conflicting_interpretations_of_pathogenicity
+chr7	117592039	rs1309723251	C	A	.	PASS	
+chr7	117592064	rs397508317	C	A	.	PASS	Uncertain_significance
+chr7	117592074	rs374702882	T	C	.	PASS	Uncertain_significance
+chr7	117592079	rs1368033715	C	T	.	PASS	Uncertain_significance
+chr7	117592089	rs1273165074	GCTC	G	.	PASS	
+chr7	117592101	rs377731410	T	A	.	PASS	Uncertain_significance
+chr7	117592101	rs377731410	T	C	.	PASS	Uncertain_significance
+chr7	117592117	rs200204024	C	A	.	PASS	Uncertain_significance
+chr7	117592121	rs546234059	C	G	.	PASS	
+chr7	117592124	rs1210495622	T	G	.	PASS	
+chr7	117592150	rs1485998437	C	G	.	PASS	Uncertain_significance
+chr7	117592169	rs1800100	C	T	.	PASS	Conflicting_interpretations_of_pathogenicity
+chr7	117592170	rs199623561	G	A	.	PASS	Uncertain_significance
+chr7	117592187	rs1277353547	G	T	.	PASS	Uncertain_significance
+chr7	117592189	rs1259091056	T	A	.	PASS	
+chr7	117592193	rs762888022	C	T	.	PASS	Uncertain_significance
+chr7	117592209	rs201295415	A	T	.	PASS	Uncertain_significance
+chr7	117592215	rs181878120	A	G	.	PASS	
+chr7	117592217	rs1417165796	AAAC	A	.	PASS	
+chr7	117592224	rs201444561	C	A	.	PASS	Uncertain_significance
+chr7	117592235	rs780579840	A	G	.	PASS	Uncertain_significance
+chr7	117592238	rs1187385113	G	A	.	PASS	
+chr7	117592245	rs1478266451	T	C	.	PASS	
+chr7	117592246	rs145540754	T	G	.	PASS	Conflicting_interpretations_of_pathogenicity
+chr7	117592278	rs776162972	C	T	.	PASS	
+chr7	117592290	rs769375972	T	C	.	PASS	Uncertain_significance
+chr7	117592304	rs1217700108	A	G	.	PASS	Uncertain_significance
+chr7	117592312	rs141235765	A	C	.	PASS	Uncertain_significance
+chr7	117592320	rs142432539	C	G	.	PASS	Uncertain_significance
+chr7	117592335	rs200531709	G	T	.	PASS	Uncertain_significance
+chr7	117592340	rs199791061	G	A	.	PASS	Conflicting_interpretations_of_pathogenicity
+chr7	117592359	rs748634753	C	T	.	PASS	Uncertain_significance
+chr7	117592377	rs186089140	C	T	.	PASS	Conflicting_interpretations_of_pathogenicity
+chr7	117592382	rs769282153	G	A	.	PASS	
+chr7	117592386	rs150772285	C	T	.	PASS	Uncertain_significance
+chr7	117592407	rs748908591	C	T	.	PASS	
+chr7	117592416	rs140455771	C	T	.	PASS	Conflicting_interpretations_of_pathogenicity
+chr7	117592418	rs772661780	C	T	.	PASS	Uncertain_significance
+chr7	117592419	rs397508357	G	A	.	PASS	Uncertain_significance
+chr7	117592422	rs766541549	T	G	.	PASS	Conflicting_interpretations_of_pathogenicity
+chr7	117592427	rs150157202	G	A	.	PASS	Conflicting_interpretations_of_pathogenicity
+chr7	117592433	rs1432291953	A	T	.	PASS	
+chr7	117592446	rs397508359	C	T	.	PASS	Uncertain_significance
+chr7	117592461	rs557228597	G	A	.	PASS	
+chr7	117592472	rs1379518832	G	A	.	PASS	Uncertain_significance
+chr7	117592514	rs773328681	A	G	.	PASS	Uncertain_significance
+chr7	117592515	rs760654830	T	G	.	PASS	
+chr7	117592521	rs141880790	G	A	.	PASS	Uncertain_significance
+chr7	117592541	rs145449046	C	G	.	PASS	Uncertain_significance
+chr7	117592542	rs369040061	G	A	.	PASS	Uncertain_significance
+chr7	117592547	rs1457489949	G	A	.	PASS	Uncertain_significance
+chr7	117592559	rs138069616	C	T	.	PASS	Uncertain_significance
+chr7	117592560	rs1487944948	C	G	.	PASS	Uncertain_significance
+chr7	117592568	rs1178839222	A	T	.	PASS	
+chr7	117592586	rs1351452625	A	G	.	PASS	
+chr7	117592588	rs1800103	A	G	.	PASS	Conflicting_interpretations_of_pathogenicity
+chr7	117592595	rs377447726	A	G	.	PASS	Uncertain_significance
+chr7	117592617	rs148604667	G	T	.	PASS	Uncertain_significance
+chr7	117592629	rs1435555122	G	A	.	PASS	Uncertain_significance
+chr7	117594934	rs565589205	G	A	.	PASS	Uncertain_significance
+chr7	117594941	rs200735475	T	G	.	PASS	Uncertain_significance
+chr7	117594945	rs201386642	G	T	.	PASS	Conflicting_interpretations_of_pathogenicity
+chr7	117594979	rs562851847	A	G	.	PASS	Uncertain_significance
+chr7	117594991	rs397508395	G	A	.	PASS	Uncertain_significance
+chr7	117594991	rs397508395	G	T	.	PASS	Conflicting_interpretations_of_pathogenicity
+chr7	117594996	rs780187979	A	T	.	PASS	Uncertain_significance
+chr7	117594996	rs780187979	A	G	.	PASS	Uncertain_significance
+chr7	117595000	rs566908587	C	T	.	PASS	Uncertain_significance
+chr7	117595002	rs397508397	G	A	.	PASS	Uncertain_significance
+chr7	117595010	rs397508398	G	C	.	PASS	
+chr7	117595023	rs762608972	G	T	.	PASS	
+chr7	117595036	rs193922506	G	A	.	PASS	Uncertain_significance
+chr7	117595054	rs145714303	C	A	.	PASS	
+chr7	117602832	rs1328356747	G	C	.	PASS	
+chr7	117602835	rs761531223	T	G	.	PASS	Uncertain_significance
+chr7	117603539	rs61738523	C	T	.	PASS	Uncertain_significance
+chr7	117603546	rs766181463	A	G	.	PASS	Uncertain_significance
+chr7	117603558	rs201864483	G	A	.	PASS	Conflicting_interpretations_of_pathogenicity
+chr7	117603558	rs201864483	G	C	.	PASS	Uncertain_significance
+chr7	117603563	rs567934887	C	T	.	PASS	Likely_benign
+chr7	117603582	rs147297080	A	G	.	PASS	Uncertain_significance
+chr7	117603585	rs1371395991	C	T	.	PASS	
+chr7	117603597	rs369521395	C	A	.	PASS	Conflicting_interpretations_of_pathogenicity
+chr7	117603600	rs1800107	G	T	.	PASS	
+chr7	117603609	rs121909034	C	T	.	PASS	Uncertain_significance
+chr7	117603612	rs121909008	A	G	.	PASS	Pathogenic/Likely_pathogenic
+chr7	117603617	rs770502501	G	C	.	PASS	Uncertain_significance
+chr7	117603630	rs397508430	A	G	.	PASS	Uncertain_significance
+chr7	117603632	rs373885282	G	A	.	PASS	Conflicting_interpretations_of_pathogenicity
+chr7	117603632	rs373885282	G	T	.	PASS	Conflicting_interpretations_of_pathogenicity
+chr7	117603635	rs199564652	G	A	.	PASS	
+chr7	117603644	rs201759207	G	C	.	PASS	Uncertain_significance
+chr7	117603644	rs201759207	G	A	.	PASS	Uncertain_significance
+chr7	117603648	rs376827439	C	T	.	PASS	Uncertain_significance
+chr7	117603652	rs767910302	G	T	.	PASS	Uncertain_significance
+chr7	117603654	rs397508435	T	A	.	PASS	
+chr7	117603671	rs397508436	A	G	.	PASS	Conflicting_interpretations_of_pathogenicity
+chr7	117603674	rs750655055	G	A	.	PASS	Uncertain_significance
+chr7	117603681	rs1246404183	C	T	.	PASS	Uncertain_significance
+chr7	117603683	rs1216746641	CTGG	C	.	PASS	
+chr7	117603686	rs749784731	G	A	.	PASS	
+chr7	117603686	rs749784731	G	C	.	PASS	Uncertain_significance
+chr7	117603687	rs193922511	T	G	.	PASS	Conflicting_interpretations_of_pathogenicity
+chr7	117603689	rs397508439	C	G	.	PASS	Uncertain_significance
+chr7	117603705	rs141747560	T	C	.	PASS	Uncertain_significance
+chr7	117603708	rs397508442	C	T	.	PASS	Pathogenic;_drug_response
+chr7	117603710	rs397508443	A	G	.	PASS	Uncertain_significance
+chr7	117603714	rs774142582	T	C	.	PASS	Uncertain_significance
+chr7	117603720	rs397508444	A	T	.	PASS	Conflicting_interpretations_of_pathogenicity
+chr7	117603725	rs181137679	A	G	.	PASS	
+chr7	117603729	rs142773283	T	C	.	PASS	Uncertain_significance
+chr7	117603730	rs151048781	G	C	.	PASS	Conflicting_interpretations_of_pathogenicity
+chr7	117603734	rs779528411	C	T	.	PASS	Uncertain_significance
+chr7	117603750	rs397508448	C	T	.	PASS	Uncertain_significance
+chr7	117603752	rs185397588	C	T	.	PASS	Uncertain_significance
+chr7	117603756	rs769377991	T	C	.	PASS	Uncertain_significance
+chr7	117603764	rs1461367862	C	T	.	PASS	Uncertain_significance
+chr7	117603769	rs779569793	C	A	.	PASS	Uncertain_significance
+chr7	117603774	rs1800110	T	C	.	PASS	Conflicting_interpretations_of_pathogenicity
+chr7	117606674	rs386134230	G	A	.	PASS	Pathogenic
+chr7	117606682	rs747139295	C	T	.	PASS	Pathogenic
+chr7	117606693	rs776948957	C	A	.	PASS	Uncertain_significance
+chr7	117606693	rs776948957	C	G	.	PASS	
+chr7	117606694	rs137975784	T	G	.	PASS	Uncertain_significance
+chr7	117606695	rs141033578	C	T	.	PASS	drug_response
+chr7	117606698	rs943473311	A	G	.	PASS	Uncertain_significance
+chr7	117606701	rs397508462	A	C	.	PASS	Conflicting_interpretations_of_pathogenicity
+chr7	117606704	rs397508463	T	A	.	PASS	Conflicting_interpretations_of_pathogenicity
+chr7	117606711	rs748430234	T	G	.	PASS	Uncertain_significance
+chr7	117606722	rs565971160	T	C	.	PASS	Conflicting_interpretations_of_pathogenicity
+chr7	117606733	rs1333822890	A	G	.	PASS	
+chr7	117606734	rs201761547	C	G	.	PASS	
+chr7	117606738	rs370181570	A	G	.	PASS	Uncertain_significance
+chr7	117606739	rs1043006335	T	G	.	PASS	
+chr7	117606746	rs397508469	T	G	.	PASS	Uncertain_significance
+chr7	117606747	rs373561883	C	A	.	PASS	Uncertain_significance
+chr7	117610521	rs1800111	G	C	.	PASS	Conflicting_interpretations_of_pathogenicity
+chr7	117610531	rs193922731	G	A	.	PASS	Uncertain_significance
+chr7	117610534	rs781336456	A	T	.	PASS	
+chr7	117610543	rs1562914085	A	G	.	PASS	Uncertain_significance
+chr7	117610555	rs184724618	G	A	.	PASS	Uncertain_significance
+chr7	117610568	rs193922516	C	A	.	PASS	Uncertain_significance
+chr7	117610568	rs193922516	C	T	.	PASS	Uncertain_significance
+chr7	117610571	rs149279509	A	G	.	PASS	Uncertain_significance
+chr7	117610592	rs121908767	CAGTGAT	C	.	PASS	Pathogenic
+chr7	117610594	rs144441835	G	A	.	PASS	Uncertain_significance
+chr7	117610603	rs1319259748	G	T	.	PASS	Uncertain_significance
+chr7	117610610	rs1800112	T	C	.	PASS	Conflicting_interpretations_of_pathogenicity
+chr7	117610612	rs200512336	A	G	.	PASS	
+chr7	117610637	rs397508498	C	A	.	PASS	Pathogenic
+chr7	117610655	rs1268860788	A	G	.	PASS	
+chr7	117610658	rs1026006397	T	A	.	PASS	Uncertain_significance
+chr7	117611589	rs370430187	C	G	.	PASS	Uncertain_significance
+chr7	117611592	rs374403559	A	G	.	PASS	Uncertain_significance
+chr7	117611595	rs150212784	T	G	.	PASS	drug_response
+chr7	117611599	rs140883683	C	T	.	PASS	Uncertain_significance
+chr7	117611601	rs397508510	C	T	.	PASS	Uncertain_significance
+chr7	117611603	rs199990040	T	A	.	PASS	
+chr7	117611610	rs397508511	A	G	.	PASS	Uncertain_significance
+chr7	117611622	rs142394380	G	C	.	PASS	Pathogenic
+chr7	117611637	rs78194216	C	T	.	PASS	Pathogenic
+chr7	117611638	rs121909019	G	A	.	PASS	Pathogenic
+chr7	117611640	rs121909020	G	A	.	PASS	drug_response
+chr7	117611640	rs121909020	G	C	.	PASS	Uncertain_significance
+chr7	117611641	rs1800114	C	T	.	PASS	Conflicting_interpretations_of_pathogenicity
+chr7	117611646	rs200321110	G	A	.	PASS	Conflicting_interpretations_of_pathogenicity
+chr7	117611649	rs202179988	C	T	.	PASS	drug_response
+chr7	117611650	rs78769542	G	A	.	PASS	drug_response
+chr7	117611653	rs121909037	A	G	.	PASS	
+chr7	117611663	rs186045772	T	A	.	PASS	drug_response
+chr7	117611671	rs139304906	T	C	.	PASS	Pathogenic
+chr7	117611679	rs766126240	A	C	.	PASS	Uncertain_significance
+chr7	117611679	rs766126240	A	G	.	PASS	
+chr7	117611680	rs564165440	A	G	.	PASS	Uncertain_significance
+chr7	117611697	rs373043500	A	T	.	PASS	Uncertain_significance
+chr7	117611697	rs373043500	A	G	.	PASS	Uncertain_significance
+chr7	117611701	rs774050249	C	T	.	PASS	
+chr7	117611708	rs150020260	G	C	.	PASS	Uncertain_significance
+chr7	117611715	rs376968326	T	C	.	PASS	Uncertain_significance
+chr7	117611716	rs764434414	A	G	.	PASS	Uncertain_significance
+chr7	117611730	rs201591901	C	T	.	PASS	Conflicting_interpretations_of_pathogenicity
+chr7	117611731	rs756579825	G	A	.	PASS	
+chr7	117611738	rs747754623	C	A	.	PASS	Conflicting_interpretations_of_pathogenicity
+chr7	117611743	rs36210737	T	A	.	PASS	Pathogenic
+chr7	117611749	rs1161781532	T	C	.	PASS	Uncertain_significance
+chr7	117611763	rs397508542	G	C	.	PASS	Uncertain_significance
+chr7	117611766	rs759394109	A	G	.	PASS	Uncertain_significance
+chr7	117611781	rs762831873	G	C	.	PASS	
+chr7	117611785	rs1200739289	C	A	.	PASS	
+chr7	117611791	rs751853765	T	C	.	PASS	Uncertain_significance
+chr7	117611794	rs146521846	C	T	.	PASS	Pathogenic
+chr7	117611794	rs146521846	C	G	.	PASS	Uncertain_significance
+chr7	117614615	rs1044244408	G	A	.	PASS	
+chr7	117614625	rs1434504483	G	A	.	PASS	Uncertain_significance
+chr7	117614627	rs397508549	A	G	.	PASS	Uncertain_significance
+chr7	117614634	rs397508550	G	A	.	PASS	
+chr7	117614636	rs755472768	A	G	.	PASS	Uncertain_significance
+chr7	117614646	rs1185498701	C	A	.	PASS	Uncertain_significance
+chr7	117614651	rs755968404	G	A	.	PASS	Uncertain_significance
+chr7	117614652	rs1562916044	C	T	.	PASS	Uncertain_significance
+chr7	117614654	rs397508553	A	G	.	PASS	Conflicting_interpretations_of_pathogenicity
+chr7	117614656	rs141150961	G	C	.	PASS	Uncertain_significance
+chr7	117614660	rs397508556	A	G	.	PASS	Conflicting_interpretations_of_pathogenicity
+chr7	117614663	rs774415786	A	G	.	PASS	Uncertain_significance
+chr7	117614667	rs1485239084	G	A	.	PASS	
+chr7	117614670	rs1280722004	C	T	.	PASS	
+chr7	117614674	rs375845215	G	T	.	PASS	
+chr7	117614682	rs773511304	C	T	.	PASS	Uncertain_significance
+chr7	117614696	rs1186803395	A	G	.	PASS	
+chr7	117614699	rs75541969	G	C	.	PASS	drug_response
+chr7	117614702	rs143120209	G	A	.	PASS	Uncertain_significance
+chr7	117614703	rs397508567	T	A	.	PASS	Conflicting_interpretations_of_pathogenicity
+chr7	117614707	rs1418778993	T	A	.	PASS	
+chr7	117614713	rs139729994	G	T	.	PASS	Conflicting_interpretations_of_pathogenicity
+chr7	117627524	rs770114378	G	A	.	PASS	
+chr7	117627526	rs763401376	G	A	.	PASS	Uncertain_significance
+chr7	117627538	rs1800120	G	A	.	PASS	Uncertain_significance
+chr7	117627538	rs1800120	G	T	.	PASS	Conflicting_interpretations_of_pathogenicity
+chr7	117627541	rs776696255	T	G	.	PASS	Uncertain_significance
+chr7	117627547	rs753508195	A	G	.	PASS	
+chr7	117627549	rs754847820	T	C	.	PASS	
+chr7	117627556	rs150326506	A	G	.	PASS	Uncertain_significance
+chr7	117627558	rs1387464528	A	G	.	PASS	
+chr7	117627564	rs778797502	A	G	.	PASS	Uncertain_significance
+chr7	117627570	rs368393738	G	A	.	PASS	Conflicting_interpretations_of_pathogenicity
+chr7	117627574	rs137875514	A	C	.	PASS	Uncertain_significance
+chr7	117627626	rs1359962349	G	T	.	PASS	
+chr7	117627645	rs576710089	G	A	.	PASS	Uncertain_significance
+chr7	117627660	rs75647395	A	T	.	PASS	
+chr7	117627667	rs1367899158	C	A	.	PASS	
+chr7	117627676	rs746103666	G	A	.	PASS	Conflicting_interpretations_of_pathogenicity
+chr7	117627681	rs151264397	A	G	.	PASS	Uncertain_significance
+chr7	117627688	rs1420428466	T	C	.	PASS	
+chr7	117627690	rs1266135988	A	C	.	PASS	
+chr7	117627695	rs1584830230	T	A	.	PASS	Uncertain_significance
+chr7	117627703	rs749662161	C	T	.	PASS	Uncertain_significance
+chr7	117627712	rs1800123	C	T	.	PASS	Uncertain_significance
+chr7	117627720	rs1320914611	G	A	.	PASS	Uncertain_significance
+chr7	117627725	rs371475225	T	A	.	PASS	Conflicting_interpretations_of_pathogenicity
+chr7	117627727	rs770358073	C	T	.	PASS	Uncertain_significance
+chr7	117627740	rs139322772	C	A	.	PASS	
+chr7	117627742	rs775263210	T	C	.	PASS	
+chr7	117627758	rs34911792	T	G	.	PASS	Conflicting_interpretations_of_pathogenicity
+chr7	117627762	rs1554394076	G	A	.	PASS	Uncertain_significance
+chr7	117627763	rs751474685	G	A	.	PASS	Uncertain_significance
+chr7	117627766	rs397508594	A	G	.	PASS	Uncertain_significance
+chr7	117627768	rs915434373	A	G	.	PASS	
+chr7	117642438	rs1325095190	G	T	.	PASS	Uncertain_significance
+chr7	117642442	rs1191342069	G	A	.	PASS	Uncertain_significance
+chr7	117642451	rs267606723	G	A	.	PASS	Pathogenic;_drug_response
+chr7	117642457	rs397508600	C	T	.	PASS	Conflicting_interpretations_of_pathogenicity
+chr7	117642466	rs121909040	G	A	.	PASS	Conflicting_interpretations_of_pathogenicity
+chr7	117642472	rs74503330	G	A	.	PASS	Pathogenic;_drug_response
+chr7	117642482	rs768411899	A	T	.	PASS	Uncertain_significance
+chr7	117642483	rs121909041	T	A	.	PASS	Uncertain_significance
+chr7	117642484	rs76649725	C	T	.	PASS	Uncertain_significance
+chr7	117642491	rs397508607	T	G	.	PASS	Conflicting_interpretations_of_pathogenicity
+chr7	117642527	rs1800129	C	G	.	PASS	Uncertain_significance
+chr7	117642528	rs11971167	G	A	.	PASS	Conflicting_interpretations_of_pathogenicity
+chr7	117642529	rs765549490	A	G	.	PASS	
+chr7	117642535	rs752834717	T	A	.	PASS	Uncertain_significance
+chr7	117642549	rs1349344071	A	G	.	PASS	Uncertain_significance
+chr7	117642561	rs397508615	C	G	.	PASS	
+chr7	117642564	rs397508616	T	C	.	PASS	Pathogenic
+chr7	117642566	rs77010898	G	C	.	PASS	Conflicting_interpretations_of_pathogenicity
+chr7	117642574	rs397508617	C	T	.	PASS	Conflicting_interpretations_of_pathogenicity
+chr7	117642588	rs397508619	C	A	.	PASS	Uncertain_significance
+chr7	117652845	rs769931559	G	A	.	PASS	Uncertain_significance
+chr7	117652861	rs193922522	G	T	.	PASS	Uncertain_significance
+chr7	117652863	rs750604866	A	G	.	PASS	Uncertain_significance
+chr7	117652876	rs397508636	A	T	.	PASS	Pathogenic/Likely_pathogenic
+chr7	117652877	rs80034486	C	G	.	PASS	Pathogenic
+chr7	117652893	rs193922732	C	G	.	PASS	Uncertain_significance
+chr7	117652896	rs573448832	T	G	.	PASS	
+chr7	117652901	rs962313398	T	G	.	PASS	Uncertain_significance
+chr7	117652914	rs1408505482	T	C	.	PASS	
+chr7	117664704	rs900007100	T	G	.	PASS	
+chr7	117664707	rs115762793	T	C	.	PASS	Uncertain_significance
+chr7	117664708	rs755917129	A	G	.	PASS	
+chr7	117664712	rs375661578	C	G	.	PASS	Uncertain_significance
+chr7	117664717	rs780170679	T	A	.	PASS	
+chr7	117664727	rs145545286	C	T	.	PASS	Uncertain_significance
+chr7	117664730	rs1283483930	G	A	.	PASS	
+chr7	117664733	rs397508659	T	G	.	PASS	not_provided
+chr7	117664740	rs544710550	T	C	.	PASS	
+chr7	117664751	rs747324955	G	A	.	PASS	Uncertain_significance
+chr7	117664752	rs773458471	G	T	.	PASS	Uncertain_significance
+chr7	117664755	rs368427311	G	C	.	PASS	Uncertain_significance
+chr7	117664757	rs1371379517	G	A	.	PASS	Uncertain_significance
+chr7	117664761	rs1313341594	T	A	.	PASS	Uncertain_significance
+chr7	117664769	rs201686600	G	A	.	PASS	Uncertain_significance
+chr7	117664772	rs955306189	C	T	.	PASS	Uncertain_significance
+chr7	117664778	rs751098333	C	G	.	PASS	
+chr7	117664780	rs113857788	G	C	.	PASS	Conflicting_interpretations_of_pathogenicity
+chr7	117664780	rs113857788	G	T	.	PASS	Conflicting_interpretations_of_pathogenicity
+chr7	117664785	rs755993775	T	C	.	PASS	Uncertain_significance
+chr7	117664786	rs779937212	G	A	.	PASS	
+chr7	117664788	rs755028771	G	T	.	PASS	Uncertain_significance
+chr7	117664811	rs1060503166	A	C	.	PASS	Uncertain_significance
+chr7	117664812	rs1303156616	A	G	.	PASS	Uncertain_significance
+chr7	117664815	rs397508670	C	T	.	PASS	Uncertain_significance
+chr7	117664821	rs200955612	T	C	.	PASS	Conflicting_interpretations_of_pathogenicity
+chr7	117664832	rs760336091	G	C	.	PASS	
+chr7	117664845	rs115147093	C	G	.	PASS	Uncertain_significance
+chr7	117664847	rs146947665	C	A	.	PASS	Uncertain_significance
+chr7	117664853	rs150683293	G	A	.	PASS	Uncertain_significance
+chr7	117664853	rs150683293	G	C	.	PASS	Conflicting_interpretations_of_pathogenicity
+chr7	117665464	rs776388660	A	G	.	PASS	Uncertain_significance
+chr7	117665466	rs397508684	C	A	.	PASS	Uncertain_significance
+chr7	117665468	rs765036437	A	C	.	PASS	
+chr7	117665481	rs1455404428	A	G	.	PASS	Uncertain_significance
+chr7	117665503	rs1328328881	A	G	.	PASS	
+chr7	117665506	rs1330281974	G	T	.	PASS	Uncertain_significance
+chr7	117665529	rs970498675	A	T	.	PASS	
+chr7	117665529	rs970498675	A	G	.	PASS	Uncertain_significance
+chr7	117665530	rs780396890	G	A	.	PASS	Uncertain_significance
+chr7	117665542	rs1328842974	T	C	.	PASS	Uncertain_significance
+chr7	117665547	rs397508699	G	A	.	PASS	Uncertain_significance
+chr7	117665554	rs150177304	A	C	.	PASS	Uncertain_significance
+chr7	117665559	rs142092183	T	C	.	PASS	Uncertain_significance
+chr7	117666921	rs1461912555	A	T	.	PASS	Uncertain_significance
+chr7	117666921	rs1461912555	A	C	.	PASS	
+chr7	117666926	rs578237673	G	T	.	PASS	Uncertain_significance
+chr7	117666929	rs373172017	C	T	.	PASS	Uncertain_significance
+chr7	117666930	rs780785939	G	C	.	PASS	
+chr7	117666941	rs397508708	T	C	.	PASS	Conflicting_interpretations_of_pathogenicity
+chr7	117666942	rs762847468	C	T	.	PASS	Uncertain_significance
+chr7	117666961	rs761669740	C	G	.	PASS	Uncertain_significance
+chr7	117666962	rs750559671	G	A	.	PASS	Uncertain_significance
+chr7	117666977	rs397508711	C	T	.	PASS	Uncertain_significance
+chr7	117666978	rs975983947	G	A	.	PASS	Uncertain_significance
+chr7	117666996	rs755388886	C	T	.	PASS	Uncertain_significance
+chr7	117666998	rs148783445	G	A	.	PASS	Conflicting_interpretations_of_pathogenicity
+chr7	117667005	rs1397796355	T	A	.	PASS	Uncertain_significance
+chr7	117667022	rs4148725	C	T	.	PASS	Conflicting_interpretations_of_pathogenicity
+chr7	117667023	rs141554123	G	A	.	PASS	Uncertain_significance
+chr7	117667028	rs748845320	T	G	.	PASS	Uncertain_significance
+chr7	117667031	rs1584850258	A	C	.	PASS	
+chr7	117667032	rs983279303	G	A	.	PASS	Conflicting_interpretations_of_pathogenicity
+chr7	117667044	rs1436757515	C	A	.	PASS	
+chr7	117667046	rs1191325047	A	G	.	PASS	
+chr7	117667048	rs1562929623	G	T	.	PASS	Uncertain_significance
+chr7	117667088	rs369464175	G	A	.	PASS	
+chr7	117667093	rs1233730802	A	C	.	PASS	
+chr7	117715757	rs1241354823	GATA	G	.	PASS	
+chr7	117715758	rs1194130875	A	G	.	PASS	
+chr7	117715789	rs1365839402	G	C	.	PASS	
+chr7	117715795	rs1283036813	T	C	.	PASS	
+chr7	117715801	rs1441194892	G	A	.	PASS	
+chr7	117715813	rs763695956	T	C	.	PASS	
+chr7	117715818	rs1379280499	G	A	.	PASS	
+chr7	117715820	rs1417364839	G	T	.	PASS	
+chr7	117715831	rs1310703085	C	T	.	PASS	
+chr7	117715842	rs1174960445	G	A	.	PASS	
+chr7	117715851	rs1402839222	T	A	.	PASS	
