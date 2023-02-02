@@ -1,0 +1,62 @@
+chrChromosome	Position	rsIDs	Reference	Alternate	Filters_-_exomes	Filters_-_genomes	ClinVar_Clinical_Significance
+chr11	5225612	rs33929415	G	A	.	PASS	Likely_benign
+chr11	5225632	rs33949486	C	T	.	PASS	Conflicting_interpretations_of_pathogenicity
+chr11	5225638	rs33966761	A	T	.	PASS	Pathogenic
+chr11	5225638	rs33966761	A	G	.	PASS	Conflicting_interpretations_of_pathogenicity
+chr11	5225653	rs111645889	G	A	.	PASS	Conflicting_interpretations_of_pathogenicity
+chr11	5225658	rs1437278962	C	G	.	PASS	Uncertain_significance
+chr11	5225662	rs33925391	A	G	.	PASS	Conflicting_interpretations_of_pathogenicity
+chr11	5225668	rs33983276	G	C	.	PASS	Likely_pathogenic
+chr11	5225671	rs33935383	G	T	.	PASS	Uncertain_significance
+chr11	5225678	rs33946267	C	G	.	PASS	Conflicting_interpretations_of_pathogenicity
+chr11	5225678	rs33946267	C	T	.	PASS	Pathogenic/Likely_pathogenic
+chr11	5225686	rs33928092	A	G	.	PASS	
+chr11	5225689	rs33935673	T	C	.	PASS	Conflicting_interpretations_of_pathogenicity
+chr11	5225701	rs34484056	A	T	.	PASS	Conflicting_interpretations_of_pathogenicity
+chr11	5225710	rs35256489	A	G	.	PASS	Pathogenic
+chr11	5225717	rs33958637	T	G	.	PASS	
+chr11	5226561	rs10768683	C	G	.	PASS	Benign/Likely_benign
+chr11	5226566	rs778382385	C	G	.	PASS	Likely_benign
+chr11	5226572	rs35099082	C	T	.	PASS	
+chr11	5226573	rs1468286413	T	C	.	PASS	
+chr11	5226583	rs34227486	G	T	.	PASS	Uncertain_significance
+chr11	5226606	rs33914359	T	C	.	PASS	Likely_benign
+chr11	5226630	rs35553496	T	G	.	PASS	Benign/Likely_benign
+chr11	5226669	rs33916541	C	T	.	PASS	Uncertain_significance
+chr11	5226672	rs33945705	C	T	.	PASS	Likely_benign
+chr11	5226683	rs34718174	C	T	.	PASS	Likely_benign
+chr11	5226684	rs33947415	C	T	.	PASS	Conflicting_interpretations_of_pathogenicity
+chr11	5226704	rs34151786	G	A	.	PASS	
+chr11	5226719	rs34589620	T	C	.	PASS	Uncertain_significance
+chr11	5226723	rs33935983	C	T	.	PASS	Uncertain_significance
+chr11	5226729	rs1300930245	C	T	.	PASS	
+chr11	5226735	rs33961886	C	T	.	PASS	Conflicting_interpretations_of_pathogenicity
+chr11	5226737	rs33969727	G	T	.	PASS	
+chr11	5226740	rs34676051	G	C	.	PASS	
+chr11	5226741	rs63750336	T	A	.	PASS	Uncertain_significance
+chr11	5226743	rs33960931	G	A	.	PASS	Uncertain_significance
+chr11	5226761	rs35262412	T	G	.	PASS	Conflicting_interpretations_of_pathogenicity
+chr11	5226769	rs33918778	C	A	.	PASS	Uncertain_significance
+chr11	5226770	rs34831026	C	T	.	PASS	Likely_benign
+chr11	5226799	rs1135071	C	A	.	PASS	Uncertain_significance
+chr11	5226930	rs33960103	C	G	.	PASS	Pathogenic
+chr11	5226940	rs35424040	C	A	.	PASS	Pathogenic/Likely_pathogenic
+chr11	5226943	rs33950507	C	T	.	PASS	Pathogenic
+chr11	5226945	rs35474880	C	T	.	PASS	other
+chr11	5226954	rs33936254	T	G	.	PASS	Conflicting_interpretations_of_pathogenicity
+chr11	5226955	rs33959855	C	T	.	PASS	Uncertain_significance
+chr11	5226955	rs33959855	C	G	.	PASS	Conflicting_interpretations_of_pathogenicity
+chr11	5226961	rs35890959	C	T	.	PASS	Pathogenic
+chr11	5226962	rs63750840	G	T	.	PASS	Likely_benign
+chr11	5226972	rs33962676	C	T	.	PASS	Conflicting_interpretations_of_pathogenicity
+chr11	5226973	rs63751285	C	T	.	PASS	
+chr11	5226978	rs33935445	A	G	.	PASS	Uncertain_significance
+chr11	5226981	rs35203747	G	A	.	PASS	Uncertain_significance
+chr11	5226988	rs33974228	C	T	.	PASS	Uncertain_significance
+chr11	5226997	rs63750928	TCTC	T	.	PASS	Likely_pathogenic
+chr11	5227002	rs334	T	A	.	PASS	Conflicting_interpretations_of_pathogenicity
+chr11	5227003	rs33930165	C	T	.	PASS	Conflicting_interpretations_of_pathogenicity
+chr11	5227006	rs33912272	G	C	.	PASS	Likely_benign
+chr11	5227006	rs33912272	G	A	.	PASS	Uncertain_significance
+chr11	5227017	rs33949930	A	C	.	PASS	other
+chr11	5227017	rs33949930	A	G	.	PASS	Conflicting_interpretations_of_pathogenicity
