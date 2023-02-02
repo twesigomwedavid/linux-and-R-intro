@@ -1,4 +1,8 @@
-chrChromosome	Position	rsIDs	Reference	Alternate	Filters_-_exomes	Filters_-_genomes	ClinVar_Clinical_Significance
+##fileformat=VCFv4.1
+##fileDate=20230115
+##FILTER=<ID=PASS,Description="All filters passed">
+##contig=<ID=chr4,length=190214555>
+#CHROM	POS	ID	REF	ALT	QUAL	FILTER	INFO	FORMAT	SAMPLE
 chr4	3074756	rs1463437966	C	A	.	PASS	
 chr4	3074758	rs1373709631	C	G	.	PASS	
 chr4	3074760	rs1434348075	G	C	.	PASS	
