@@ -46,6 +46,8 @@ $ man (vs using the --help option)
 
 - Obtaining summary information about files (using the ``wc``, ``head``, and ``tail`` commands)
 
+- Getting used to file extensions
+
 #### Key commands/options:
 ```
 $ mkdir
