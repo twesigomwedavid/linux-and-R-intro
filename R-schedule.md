@@ -5,7 +5,7 @@ R is a free and open-source software environment for statistical computing and g
 A plethora of R packages have been developed and shared for multiple data science operations. Some packages (e.g. ``tidyverse``) are distributed as a collection of multiple sub-packages. For purposes of this tutorial, we will mainly focus on packages within ``Base-R``. 
 
 
-### What are the advantages of using R for Genetics data analysis/visualisation? 
+### Advantages of using R for statistical data analysis and visualisation in Genetics? 
 
 - There are a lot of R online resources and tutorials to lean on
 - Analyses in R can be easily replicated on new datasets
@@ -17,7 +17,7 @@ A plethora of R packages have been developed and shared for multiple data scienc
 *Source credit: https://tomjenkins.netlify.app/tutorials/r-popgen-getting-started/
 
 
-### Learning outcomes
+### Tutorial learning outcomes
 - Getting familiar with the Rstudio environment
 
 - Introduction to R code syntax
