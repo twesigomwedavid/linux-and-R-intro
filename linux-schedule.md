@@ -119,6 +119,7 @@ $ paste
 ### 1. Introduction to loops
 
 #### Learning objectives/outcomes: 
+- Writing ``Bash`` scripts
 
 - Using ``for`` loops in Bash
 
