@@ -22,6 +22,8 @@ Please see [`readme`](https://github.com/twesigomwedavid/linux-and-R-intro)  doc
 
 - Demonstrating the use of ``tab`` completion
 
+- Understanding file permissions
+
 #### Key commands/options:
 ```
 $ pwd
