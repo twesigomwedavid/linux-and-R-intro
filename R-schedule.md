@@ -2,7 +2,7 @@
 
 R is a free and open-source software environment for statistical computing and graphics, hence it is one of the most widely used programming languages/environments in Bioinformatics. R programming is supported by a wide variety of Linux/Unix platforms, Windows and MacOS. 
 
-A plethora of R packages have been developed and shared for multiple data science operations. Some packages (e.g. ``tidyverse``) are distributed as a collection of multiple sub-packages. For purposes of this tutorial, we will focus on packages within ``Base-R``. 
+A plethora of R packages have been developed and shared for multiple data science operations. Some packages (e.g. ``tidyverse``) are distributed as a collection of multiple sub-packages. For purposes of this tutorial, we will mainly focus on packages within ``Base-R``. 
 
 
 ### Learning outcomes
