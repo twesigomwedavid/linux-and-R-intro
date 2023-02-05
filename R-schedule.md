@@ -22,6 +22,8 @@ A plethora of R packages have been developed and shared for multiple data scienc
 
 - Introduction to R code syntax
 
+- Creating and manipulating variables in R
+
 - Introduction to R data structures
 
 - Learning how to write simple R scripts
