@@ -1,5 +1,23 @@
 ## MSc (Med) Genomic Medicine — R Tutorial Schedule 
 
+R is a free and open-source software environment for statistical computing and graphics, hence it is one of the most widely used programming languages/environments in Bioinformatics. R programming is supported by a wide variety of Linux/Unix platforms, Windows and MacOS. 
+
+A plethora of R packages have been developed and shared for multiple data science operations. Some packages (e.g. ``tidyverse``) are actually distributed as a suite comprising multiple sub-packages. For purposes of this tutorial, we will focus on packages within ``Base-R``
+
+
+### Learning outcomes
+- Getting familiar with the Rstudio environment
+
+- Introduction to R code syntax
+
+- Introduction to R data structures
+
+- Learning how to make simple plots in R 
+
+- Learning how to run simple/common statistical genetics tests in R
+
+
+
 ## Setup and installation of R and Rstudio
 Kindly follow instructions at https://www.r-project.org/ and https://posit.co/ and from the in-class tutorial.
 
