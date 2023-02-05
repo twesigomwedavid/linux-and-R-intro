@@ -24,6 +24,4 @@
 5.  (a) What is the difference between the ``cat`` and ``less`` commands? 
 
 
-### Task 2 — Instructions
-
 
