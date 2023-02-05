@@ -2,7 +2,7 @@
 ##fileDate=20230115
 ##FILTER=<ID=PASS,Description="All filters passed">
 ##contig=<ID=chr17,length=83257441>
-#CHROM	POS	ID	REF	ALT	QUAL	FILTER	INFO	FORMAT	SAMPLE
+#CHROM	POS	ID	REF	ALT	QUAL	FILTER	INFO
 chr17	43045685	rs80357183	T	A	.	PASS	Conflicting_interpretations_of_pathogenicity
 chr17	43045690	rs775417240	GTGGGGGATC	G	.	PASS	Conflicting_interpretations_of_pathogenicity
 chr17	43045694	rs80357322	G	C	.	PASS	Benign
