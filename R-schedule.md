@@ -12,6 +12,8 @@ A plethora of R packages have been developed and shared for multiple data scienc
 
 - Introduction to R data structures
 
+- Learning how to write simple R scripts
+
 - Learning how to make simple plots in R 
 
 - Learning how to run simple/common statistical genetics tests in R
