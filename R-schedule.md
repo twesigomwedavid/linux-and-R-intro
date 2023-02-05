@@ -25,7 +25,19 @@ Kindly follow instructions at https://www.r-project.org/ and https://posit.co/ a
 
 Swirl is an R package with interactive R courses. 
 
-For this MSc (Med) Genomic Medicine programme, we will focus on the R programming course in ``swirl``. Kindly complete the following lessons within this course:
+### Installing swirl in Rstudio
+
+```
+install.packages('swirl')
+```
+
+### Launching swirl in Rstudio
+
+```
+library(swirl)
+```
+
+For this MSc (Med) Genomic Medicine programme, we will focus on the R programming course in ``swirl``. Please follow the prompts and complete the following lessons within this course:
 
 - Basic Building Blocks 
 
@@ -40,16 +52,3 @@ For this MSc (Med) Genomic Medicine programme, we will focus on the R programmin
 - Matrices and Data Frames
 
 - Functions 
-
-### Installing swirl in Rstudio
-
-```
-install.packages('swirl')
-```
-
-### Launching swirl in Rstudio
-
-```
-library(swirl)
-```
-
