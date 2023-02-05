@@ -97,6 +97,7 @@ $ grep
 $ sort
 $ uniq
 $ cut
+$ awk
 ```
 
 ### 2. Other file manipulations
