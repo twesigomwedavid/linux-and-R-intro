@@ -22,3 +22,16 @@ For this MSc (Med) Genomic Medicine programme, we will focus on the R programmin
 - Matrices and Data Frames
 
 - Functions 
+
+### Installing swirl in Rstudio
+
+```
+install.packages('swirl')
+```
+
+### Launching swirl in Rstudio
+
+```
+library(swirl)
+```
+
