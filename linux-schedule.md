@@ -3,7 +3,7 @@
 ## Session 1
 
 ### 1. Setup and installation of Linux terminal 
-Please see [`readme`](https://github.com/twesigomwedavid/linux-and-R-intro)  document
+Please see the [`readme`](https://github.com/twesigomwedavid/linux-and-R-intro) document
 
 ### 2. Navigating files and directories 
 
