@@ -12,6 +12,8 @@ Please see [`readme`](https://github.com/twesigomwedavid/linux-and-R-intro)  doc
 
 - Moving around on your computer in a Linux environment
 
+- Downloading files using ``wget``
+
 - Displaying/listing ``files`` and ``directories``
 
 - Specifying the location of a file or directory on your computer
@@ -27,6 +29,7 @@ Please see [`readme`](https://github.com/twesigomwedavid/linux-and-R-intro)  doc
 #### Key commands/options:
 ```
 $ pwd
+$ wget
 $ ls (and commonly used options)
 $ cd
 $ man (vs using the --help option)
