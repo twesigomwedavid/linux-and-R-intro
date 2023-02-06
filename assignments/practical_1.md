@@ -24,4 +24,10 @@
 5.  (a) What is the difference between the ``cat`` and ``less`` commands? 
 
 
+### Task 1 — Bonus
+1.   (a) Create a file comprising 5 gene names of your choice (one on each line) using the ``nano`` editor. (b) What shortcut can you use to search for a pattern when editing a file with nano? 
+
+2.   Mention at least 5 file extensions that are commonly used in genomics. 
+
+
 
