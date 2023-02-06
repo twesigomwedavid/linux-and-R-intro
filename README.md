@@ -38,7 +38,13 @@ Run the command below within the powershell:
 wsl --install
 ```
 
+On some computers, it might be necessary to also run the command below:
+```
+Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-Linux
+```
+
 Restart your PC
+
 
 #### Step 2: Install the Ubuntu app/terminal for Windows
 This app can be found in the Microsoft store. For purposes of this tutorial, you may install version 20.04. 
