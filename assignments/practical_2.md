@@ -4,7 +4,7 @@
 
 - **For each step, please write the commands used where applicable.** 
 
-- Download the ``cpvs.txt`` file at ... and move it to a ``vep`` folder (can create a new folder if you don't have this)
+- Download the ``cpvs.txt`` file at https://github.com/twesigomwedavid/linux-and-R-intro/tree/main/data/vep and move it to a ``vep`` folder (can create a new folder if you don't have this)
 
 The ``cpvs.txt`` file comprises variants that have been annotated using the [Ensembl Variant Effect Predictor](https://www.ensembl.org/info/docs/tools/vep/index.html). This exercise is about extracting/filtering various information from this file using Linux. 
 
