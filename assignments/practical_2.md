@@ -6,7 +6,7 @@
 
 - Download the ``cpvs.txt`` file at ... and move it to a ``vep`` folder (can create a new folder if you don't have this)
 
-The ``cpvs.txt`` file comprises variants that have been annotated using the Ensembl Variant Effect Predictor. This exercise is about extracting/filtering various information from this file using Linux. 
+The ``cpvs.txt`` file comprises variants that have been annotated using the [Ensembl Variant Effect Predictor](https://www.ensembl.org/info/docs/tools/vep/index.html). This exercise is about extracting/filtering various information from this file using Linux. 
 
 ### Task 1
 
