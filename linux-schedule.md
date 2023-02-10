@@ -129,6 +129,23 @@ $ paste
 
 - Using ``for`` loops in Bash
 
+### 2. Working with zipped files
+
+#### Learning objectives/outcomes: 
+- Creating, viewing and extracting information from zipped files (.zip, .gzip, .gz, .tar, .tar.gz)
+
+#### Key commands/options:
+
+```
+$ zip
+$ unzip
+$ zip
+$ gunzip
+$ tar (and relevant options)
+```
+
+NB: Make a note regarding index files
+
 
 ### References
 This schedule was modeled on the Unix shell material at https://swcarpentry.github.io/shell-novice/. 
