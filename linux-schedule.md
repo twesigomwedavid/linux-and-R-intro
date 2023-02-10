@@ -147,5 +147,11 @@ $ tar (and relevant options)
 NB: Make a note regarding index files
 
 
+### 3. Installing missing tools/commands on your terminal 
+
+#### Learning objectives/outcomes:
+- Learning how to install commonly used tools/commands which may not be on the terminal by default
+
+
 ### References
 This schedule was modeled on the Unix shell material at https://swcarpentry.github.io/shell-novice/. 
