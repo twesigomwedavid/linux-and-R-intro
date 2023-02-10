@@ -139,7 +139,7 @@ $ paste
 ```
 $ zip
 $ unzip
-$ zip
+$ gzip
 $ gunzip
 $ tar (and relevant options)
 ```
