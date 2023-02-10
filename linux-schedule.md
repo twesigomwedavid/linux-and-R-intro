@@ -147,7 +147,13 @@ $ tar (and relevant options)
 NB: Make a note regarding index files
 
 
-### 3. Installing missing tools/commands on your terminal 
+### 3. Connecting to a computer cluster
+
+#### Learning objectives/outcomes:
+- Learning how to generate ``ssh`` keys
+
+
+### 4. Installing missing tools/commands on your terminal 
 
 #### Learning objectives/outcomes:
 - Learning how to install commonly used tools/commands which may not be on the terminal by default
