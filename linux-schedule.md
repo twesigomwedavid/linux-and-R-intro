@@ -122,7 +122,7 @@ $ paste
 
 ## Bonus Linux Content
 
-### 1. Introduction to loops
+### 1. Introduction to Bash scripts
 
 #### Learning objectives/outcomes: 
 - Writing ``Bash`` scripts
