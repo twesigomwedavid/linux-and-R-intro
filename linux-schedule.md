@@ -159,5 +159,11 @@ NB: Make a note regarding index files
 - Learning how to install commonly used tools/commands which may not be on the terminal by default
 
 
+### 5. Getting help from the community
+
+#### Learning objectives/outcomes:
+- Exploring platforms where you can obtain potential solutions to challenging Bash scripting/command-line problems
+
+
 ### References
 This schedule was modeled on the Unix shell material at https://swcarpentry.github.io/shell-novice/. 
