@@ -122,12 +122,47 @@ $ paste
 
 ## Bonus Linux Content
 
-### 1. Introduction to loops
+### 1. Introduction to Bash scripts
 
 #### Learning objectives/outcomes: 
 - Writing ``Bash`` scripts
 
 - Using ``for`` loops in Bash
+
+### 2. Working with zipped files
+
+#### Learning objectives/outcomes: 
+- Creating, viewing and extracting information from zipped files (.zip, .gzip, .gz, .tar, .tar.gz)
+
+#### Key commands/options:
+
+```
+$ zip
+$ unzip
+$ gzip
+$ gunzip
+$ tar (and relevant options)
+```
+
+NB: Make a note regarding index files
+
+
+### 3. Connecting to a computer cluster
+
+#### Learning objectives/outcomes:
+- Learning how to generate ``ssh`` keys
+
+
+### 4. Installing missing tools/commands on your terminal 
+
+#### Learning objectives/outcomes:
+- Learning how to install commonly used tools/commands which may not be on the terminal by default
+
+
+### 5. Getting help from the community
+
+#### Learning objectives/outcomes:
+- Exploring platforms where you can obtain potential solutions to challenging Bash scripting/command-line problems
 
 
 ### References

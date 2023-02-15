@@ -4,7 +4,7 @@
 
 - **For each step, please write the commands used where applicable.** 
 
-- Download the ``cpvs.txt`` file at ... and move it to a ``vep`` folder (can create a new folder if you don't have this)
+- Download the ``cpvs.txt`` file at https://github.com/twesigomwedavid/linux-and-R-intro/tree/main/data/vep and move it to a ``vep`` folder (can create a new folder if you don't have this)
 
 The ``cpvs.txt`` file comprises variants that have been annotated using the [Ensembl Variant Effect Predictor](https://www.ensembl.org/info/docs/tools/vep/index.html). This exercise is about extracting/filtering various information from this file using Linux. 
 
@@ -21,7 +21,7 @@ The ``cpvs.txt`` file comprises variants that have been annotated using the [Ens
 
 1. Of the variant annotations in ``cpvs.txt``, how many are based on a [MANE_SELECT](https://www.ncbi.nlm.nih.gov/refseq/MANE/) transcript, and how many are based on a canonical transcript?   
 
-2. Filter the variant records in cpvs.txt — keep the header line and only the variant records based on a MANE_SELECT transcript. Save the output to ``cpvs_mane_select.txt``
+2. Filter the variant records in cpvs.txt as follows — keep only the last header line and only the variant records based on a MANE_SELECT transcript. Save the output to ``cpvs_mane_select.txt``
 
 3. How many protein coding variants are in the ``cpvs_mane_select.txt`` file?
 
