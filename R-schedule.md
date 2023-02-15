@@ -68,3 +68,13 @@ For this MSc (Med) Genomic Medicine programme, we will focus on the R programmin
 - Matrices and Data Frames
 
 - Functions 
+
+
+
+
+
+
+```
+
+ggplot(data = ToothGrowth, mapping = aes(supp, len), size = 1) + geom_boxplot(aes(fill=supp)) + facet_wrap(~dose) + theme_bw()
+```
