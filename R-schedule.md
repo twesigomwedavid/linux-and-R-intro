@@ -71,10 +71,10 @@ For this MSc (Med) Genomic Medicine programme, we will focus on the R programmin
 
 
 
+## Session 2
 
+### Plotting in R
+For this tutorial, we will primarily follow plotting code and tips from https://r-graph-gallery.com (example data may be customisable)
 
-
-```
-
-ggplot(data = ToothGrowth, mapping = aes(supp, len), size = 1) + geom_boxplot(aes(fill=supp)) + facet_wrap(~dose) + theme_bw()
-```
+### Obtaining data from files
+For this tutorial, we will practice how to read in data from `tsv` and `csv` files into R. 
