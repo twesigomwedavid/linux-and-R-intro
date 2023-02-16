@@ -21,6 +21,8 @@ Write all the code for this practical in an Rscript ``practical1.R``
 
 1(f) Results have just come in for insertions (INS) called by each tool. Create a vector 'INS' composed of 20, 28, and 14. Add a column for `INS` to the cnvs data frame and save the updated data frame as cnvs2. 
 
+1(g) Create a bar plot showing the comparison of DEL CNVs by tool (i.e. tools on x-axis)
+
 
 ### Task 2
 
