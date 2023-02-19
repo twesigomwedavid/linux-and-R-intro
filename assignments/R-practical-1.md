@@ -1,7 +1,7 @@
 ## R/Rstudio Practical 
 
 Set the working directory in Rstudio to ~/r-tutorial/practical1 (create one if necessary)
-Write all the code for this practical in an Rscript ``practical1.R``
+Please write all the code for Task 1 and Task2  in an Rscript ``your_initials_practical1.R``
 
 ### Task 1
 
@@ -42,6 +42,15 @@ sample1_cov <- read.table("sample1.depth", header=FALSE, sep="\t", na.strings="N
 2(e) Calculate the mean, standard deviation and variance of all the coverage values in column `V3`.
 
 
+### Task 3 
 
+3 (a) Create R markdown documentation(s) comprising the code in each of the files at https://github.com/twesigomwedavid/linux-and-R-intro/tree/main/scripts. Please feel free to be creative regarding the supportive text around the code chunks. 
+
+3 (b) Use the `knitr` package to create .html versions of the R markdown documents. Please include outputs (where reasonable e.g. plots and summary stats or tests).  
+
+
+```
+Kindly submit the practical1.R script (Task 1 and Task 2) and the two .html documents (Task 3) for marking. 
+```
 
 
