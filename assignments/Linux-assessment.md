@@ -14,7 +14,7 @@ The ``D5V5D1BPLCmFGx8K.txt`` file comprises variants from 4 genes (_TP53_, _CYP2
 
 1. How many unique variants are in the D5V5D1BPLCmFGx8K.txt file? 
 
-2. Filter out column 9 (i.e. the Feature column) and save the output to `vep_filter1.txt` (this step is to remove some NM_ patterns in column 9 that could cause confusion when filtering for the MANE_SELECT transcript later on)
+2. Filter out column 9 (i.e. the Feature column) and save the output to `vep_filter1.txt` (this step is to remove some NM_ patterns in column 9 that could cause confusion when filtering for the MANE_SELECT transcript later on) (hint: if a file has 10 columns, you can select column 5 to 10 by saying `cut -f5- test_file.txt` ; apply this same principle)
 
 3. Remove the original D5V5D1BPLCmFGx8K.txt to save space on your computer.
 
@@ -23,24 +23,10 @@ The ``D5V5D1BPLCmFGx8K.txt`` file comprises variants from 4 genes (_TP53_, _CYP2
 
 ### Task 2
 
-2. Create a BASH script (use a reasonable file name) that extracts the following information for _TP53_, _CYP2D6_, _RET_, and _NF1_ from the `vep_filter2.txt` file.
+2. Create a BASH script (use a reasonable file name) that extracts the following information for _TP53_, _CYP2D6_, _RET_, and _NF1_ from the `vep_filter2.txt` file (hint: use a `for loop`)
 
-- The number of unique variants annotated for each gene
+- the number of unique variants annotated for each gene
+- the variant records annotated according to the canonical transcripts saved in a file <gene_name>.canonical.txt (be sure to replace <gene_name> with the corresponding gene name)
+- the counts for each of the unique variant consequences for each gene saved in a file <gene_name>.variant_consequences.txt (be sure to replace <gene_name> with the corresponding gene name)
 
-2b. 
-
-1. Of the variant annotations in ``cpvs.txt``, how many are based on a [MANE_SELECT](https://www.ncbi.nlm.nih.gov/refseq/MANE/) transcript, and how many are based on a canonical transcript?   
-
-2. Filter the variant records in cpvs.txt as follows — keep only the last header line and only the variant records based on a MANE_SELECT transcript. Save the output to ``cpvs_mane_select.txt``
-
-3. How many protein coding variants are in the ``cpvs_mane_select.txt`` file?
-
-5. How many unique variant consequences are in the ``cpvs_mane_select.txt`` file? Provide counts for each of the unique variant consequences. 
-
-4. Create a smaller file (smaller_cpvs_file.txt) from ``cpvs_mane_select.txt`` comprising only the variant rsID (#Uploaded_variation), location, allele, gene, protein position, amino acids, SIFT, Polyphen, and clinical significance (CLIN_SIG) columns. 
-
-
-### Task 3
-
-1. Convert the ``smaller_cpvs_file.txt`` file to a comma-separated file and save the output to ``test_file.csv``
-
+3. Create appropriate bar plot(s) in R comparing the number of missense, frameshift, splice site, stop-lost/stop-gained, and intron variants in _TP53_, _CYP2D6_, _RET_, and _NF1_.  
