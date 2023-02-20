@@ -2,8 +2,8 @@
 
 ### Instructions:
 
-- **For each step run on the command-line, please write the commands used where applicable.** 
-- **For each step run in a script, kindly forward the script for marking.** 
+- For each step run on the command-line, please write the commands used where applicable 
+- For each step run in a script, kindly forward the script for marking. 
 
 - Download the vep output file at https://www.ensembl.org/Multi/Tools/VEP/Ticket?tl=D5V5D1BPLCmFGx8K and move it to your ``vep`` folder (can create a new folder if you don't have this). Be sure to download the .txt version (unfiltered).  
 
@@ -24,9 +24,11 @@ The ``D5V5D1BPLCmFGx8K.txt`` file comprises variants from 4 genes (_TP53_, _CYP2
 
 ### Task 2
 
-2. Create a BASH script (use a reasonable file name) that extracts the following information for _TP53_, _CYP2D6_, _RET_, and _NF1_ from the `vep_filter2.txt` file (hint: use a `for loop`)
+2. Create a BASH script (use a reasonable file name) that extracts the following information for _TP53_, _CYP2D6_, _RET_, and _NF1_ from the `vep_filter2.txt` file (hint: use a `for loop` to avoid redundancy)
 
 - the number of unique variants annotated for each gene
-- the counts for each of the unique variant consequences for each gene saved in a file <gene_name>.variant_consequences.txt (be sure to replace <gene_name> with the corresponding gene name)
+- the counts for each of the unique variant consequences for each gene saved in a file <gene_name>.variant.consequences.txt (be sure to replace <gene_name> with the corresponding gene name)
+- the 50 rarest missense variants according to the `gnomADe_AFR_AF` saved in a file  <gene_name>.missense.rare.txt (for this exercise, exclude variants with missing frequency values for gnomADe_AFR_AF; also you may keep a few key fields in the output instead of all the fields)
+- the variants with a CADD_PHRED score greater than 20 saved in a file  <gene_name>.CADD.high.txt (you may keep a few key fields in the output instead of all the fields)
 
-3. Create appropriate bar plot(s) in R comparing the number of missense, frameshift, splice site, stop-lost/stop-gained, and intron variants in _TP53_, _CYP2D6_, _RET_, and _NF1_.  
+3. Create appropriate bar plot(s) in R comparing the number of `missense`, `frameshift`, `splice acceptor/donor`, `stop-lost/gained`, and `intron variants` in _TP53_, _CYP2D6_, _RET_, and _NF1_.  
