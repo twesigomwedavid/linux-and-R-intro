@@ -50,6 +50,6 @@ sample1_cov <- read.table("sample1.depth", header=FALSE, sep="\t", na.strings="N
 
 
 ```
-Kindly submit the practical1.R script (Task 1 and Task 2) and the two .html documents (Task 3) for marking. Preferably, you could convert the html documents into PDFs using free online software. 
+Kindly submit the practical1.R script (Task 1 and Task 2) and the two .html documents (Task 3) for marking. If possible, you could convert the html documents into PDFs using free online software. 
 ```
 
