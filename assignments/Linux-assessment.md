@@ -1,23 +1,33 @@
-## Linux practical 2
+## Linux assessment
 
 ### Instructions:
 
 - **For each step, please write the commands used where applicable.** 
 
-- Download the ``cpvs.txt`` file at https://github.com/twesigomwedavid/linux-and-R-intro/tree/main/data/vep and move it to a ``vep`` folder (can create a new folder if you don't have this)
+- Download the vep output file at https://www.ensembl.org/Multi/Tools/VEP/Ticket?tl=D5V5D1BPLCmFGx8K and move it to your ``vep`` folder (can create a new folder if you don't have this). Be sure to download the .txt version (unfiltered).  
 
-The ``cpvs.txt`` file comprises variants that have been annotated using the [Ensembl Variant Effect Predictor](https://www.ensembl.org/info/docs/tools/vep/index.html). This exercise is about extracting/filtering various information from this file using Linux. 
+The ``D5V5D1BPLCmFGx8K.txt`` file comprises variants from 4 genes (_TP53_, _CYP2D6_, _RET_, and _NF1_) that have been annotated using the [Ensembl Variant Effect Predictor](https://www.ensembl.org/info/docs/tools/vep/index.html). 
+
+
 
 ### Task 1
 
-1. How many header lines are in the ``cpvs.txt`` file? How many variant records are in the file?
+1. How many unique variants are in the D5V5D1BPLCmFGx8K.txt file? 
 
-2. How many unique variants are in the cpvs.tx file? 
+2. Filter out column 9 (i.e. the Feature column) and save the output to `vep_filter1.txt` (this step is to remove some NM_ patterns in column 9 that could cause confusion when filtering for the MANE_SELECT transcript later on)
 
-3. Why is the number of unique variants different from the number of total variant records?
+3. Remove the original D5V5D1BPLCmFGx8K.txt to save space on your computer.
+
+4. Filter for all variant records annotated according to the MANE_SELECT transcript and save the output to `vep_filter2.txt`
 
 
 ### Task 2
+
+2. Create a BASH script (use a reasonable file name) that extracts the following information for _TP53_, _CYP2D6_, _RET_, and _NF1_ from the `vep_filter2.txt` file.
+
+- The number of unique variants annotated for each gene
+
+2b. 
 
 1. Of the variant annotations in ``cpvs.txt``, how many are based on a [MANE_SELECT](https://www.ncbi.nlm.nih.gov/refseq/MANE/) transcript, and how many are based on a canonical transcript?   
 
