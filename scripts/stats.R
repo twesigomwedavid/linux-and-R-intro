@@ -92,7 +92,7 @@ cohort3 <- data.frame(
   BMI = c(rep ("group1", 200), rep ("group2", 1000), rep("group3", 1000)),
   BP = c(rnorm(200, mean = 140, sd = 5), c(rnorm(450, mean=100, sd = 2), rnorm(100, mean=110, sd = 2), rnorm(450, mean=120, sd = 2)), rnorm(1000, mean = 110, sd = 5)))
 
-two_way_anova <- aov(BP ~ BMI + exercise, data = cohort2)
+two_way_anova <- aov(BP ~ BMI + exercise, data = cohort3)
 
 report(two_way_anova)
 
