@@ -28,7 +28,7 @@ The ``D5V5D1BPLCmFGx8K.txt`` file comprises variants from 4 genes (_TP53_, _CYP2
 
 - the number of unique variants annotated for each gene
 - the counts for each of the unique variant consequences for each gene saved in a file <gene_name>.variant.consequences.txt (be sure to replace <gene_name> with the corresponding gene name)
-- the 50 rarest missense variants according to the `gnomADe_AFR_AF` saved in a file  <gene_name>.missense.rare.txt (for this exercise, exclude variants with missing frequency values for gnomADe_AFR_AF; also you may keep a few key fields in the output instead of all the fields)
-- the variants with a CADD_PHRED score greater than 20 saved in a file  <gene_name>.CADD.high.txt (you may keep a few key fields in the output instead of all the fields)
+- the 50 rarest missense variants according to the `gnomADe_AFR_AF` saved in a file  <gene_name>.missense.rare.txt (for this exercise, exclude variants with missing frequency values for gnomADe_AFR_AF; also you may keep a few key fields in the output instead of all the fields) (hint: use the -n and -k options of sort)
+- the variants with a CADD_PHRED score greater than 20 saved in a file  <gene_name>.CADD.high.txt (you may keep a few key fields in the output instead of all the fields) (hint: use the -n and -k options of sort)
 
 3. Create appropriate bar plot(s) in R comparing the number of `missense`, `frameshift`, `splice acceptor/donor`, `stop-lost/gained`, and `intron variants` in _TP53_, _CYP2D6_, _RET_, and _NF1_.  
