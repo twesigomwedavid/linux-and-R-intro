@@ -76,7 +76,7 @@ For this MSc (Med) Genomic Medicine programme, we will focus on the R programmin
 ### Plotting in R
 For this tutorial, we will primarily follow plotting code and tips from https://r-graph-gallery.com (example data may be customisable)
 
-Download the plots [https://github.com/twesigomwedavid/linux-and-R-intro/blob/main/scripts/plots.R] Rscript, open it in Rstudio, and follow the prompts.
+Download the [`plots`](https://github.com/twesigomwedavid/linux-and-R-intro/blob/main/scripts/plots.R) Rscript, open it in Rstudio, and follow the prompts.
 
 ### Statistical tests in R
-For this tutorial, we will practice how to run basic statistical tests in R. Download the stats Rscript, open it in Rstudio, and follow the prompts.
+For this tutorial, we will practice how to run basic statistical tests in R. Download the [`stats`](https://github.com/twesigomwedavid/linux-and-R-intro/blob/main/scripts/stats.R) Rscript, open it in Rstudio, and follow the prompts.
