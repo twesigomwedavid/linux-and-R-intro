@@ -9,9 +9,9 @@ A plethora of R packages have been developed and shared for multiple data scienc
 
 - There are a lot of R online resources and tutorials to lean on
 - Analyses in R can be easily replicated on new datasets
-- R provides many options for creating publication quality figures and visualisations
+- R provides many options for creating publication-quality figures and visualisations
 - R code can be uploaded to online repositories for other people to reproduce your analysis
-- R offers cross platform compatibility
+- R offers cross-platform compatibility
 - R is free to use
 
 *Source credit: https://tomjenkins.netlify.app/tutorials/r-popgen-getting-started/
@@ -76,5 +76,7 @@ For this MSc (Med) Genomic Medicine programme, we will focus on the R programmin
 ### Plotting in R
 For this tutorial, we will primarily follow plotting code and tips from https://r-graph-gallery.com (example data may be customisable)
 
-### Obtaining data from files
-For this tutorial, we will practice how to read in data from `tsv` and `csv` files into R. 
+Download the plots [https://github.com/twesigomwedavid/linux-and-R-intro/blob/main/scripts/plots.R] Rscript, open it in Rstudio, and follow the prompts.
+
+### Statistical tests in R
+For this tutorial, we will practice how to run basic statistical tests in R. Download the stats Rscript, open it in Rstudio, and follow the prompts.
