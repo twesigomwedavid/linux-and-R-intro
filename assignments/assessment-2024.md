@@ -30,7 +30,7 @@ twesidave:~ tdavid$ pwd
 3.	Are the BAM files in this folder indexed? 
 4.	List all the bam files in the folder and save the output of the **ls** command to a file named bams.txt (Hint: Use the * wildcard and remember to redirect with the **>** sign). 
 5.	The **bams.txt** file should now have the name of a bam file on each line. Delete the **_ldlr.bam** pattern from every line in the **bam.txt** file using the **sed** command and save the output to a file named **sample_ids.txt** (Hint: remember the sed syntax: sed 's/pattern_to_be_replaced//' file_name > new_file)  
-6.	Open a new file named index.sh using nano. In this file add the lines below:
+6.	Open a new file named **index.sh** using **nano**. In this file add the lines below:
 
 ```
 for i in $(cat sample_ids.txt); do 
