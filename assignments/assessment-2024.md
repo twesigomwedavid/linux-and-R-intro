@@ -63,18 +63,18 @@ bcftools mpileup -a AD -f hg38_chr19.fasta NA19017_ldlr.bam -Ou | bcftools call 
 Run the command:
 
 ```
-bcftools norm -f hg38_chr19.fasta NA19017_ldlr.vcf -o NA19017.norm.vcf
+bcftools norm -f hg38_chr19.fasta NA19017_ldlr.vcf -o NA19017_ldlr.norm.vcf
 ```
 
 4.	What does the command above do?
-5.	Check the positions **11092202** and **11092205** again? Are the REF and ALT alleles the same as before (as in NA19017_ldlr.vcf)? If not, could you explain what’s different? 
+5.	Check the positions **11092202** and **11092205** again but this time from the NA19017_ldlr.norm.vcf file? Are the REF and ALT alleles the same as before (as in NA19017_ldlr.vcf)? If not, could you explain what’s different? 
 
 
 ### Exercise 3:
 
 The variant calling from exercise 2 was only for NA19017. 
 
-1. Modify the first _bcftools_ command from Exercise 2 to perform multi-sample variant calling on all the BAM files in the **ldlr_lwk** folder (be sure to include the AD flag). Save the output VCF file as **ldlr_lwk_multisample.vcf**
+1. Modify the first _bcftools_ command from exercise 2 to perform multi-sample variant calling on all the BAM files in the **ldlr_lwk** folder (be sure to include the AD flag). Save the output VCF file as **ldlr_lwk_multisample.vcf**
 2. Normalise the variants in ldlr_lwk_multisample.vcf using **bcftools norm** and save the output to ldlr_lwk_multisample.norm.vcf (see the command used in exercise 2 for reference)
    
 
@@ -84,12 +84,12 @@ Run the command below (in one line):
 bcftools filter -s LowQual -i'QUAL>=30 && AD[*:1]>=15' -g8 -G10 ldlr_lwk_multisample.norm.vcf  -o ldlr_lwk_multisample.norm.flt.vcf
 ```
 
-3. What does the command above do and how is the ldlr_lwk_multisample.norm.flt.vcf file different from the ldlr_lwk_multisample.norm.vcf file?
+3. What does the command above do and how is the *ldlr_lwk_multisample.norm.flt.vcf* file different from the *ldlr_lwk_multisample.norm.vcf* file?
 4. How many variants are in the ldlr_lwk_multisample.norm.flt.vcf file?
-5. How many variants in ldlr_lwk_multisample.norm.flt.vcf passed the filters? 
+5. How many variants in ldlr_lwk_multisample.norm.flt.vcf passed the filters above? 
 6. How many SNPs and how many indels are in the ldlr_lwk_multisample.norm.flt.vcf file? (Hint: you can query SNPS using: ```bcftools query -f'%POS %REF>%ALT\n' -i'type="snp"' ldlr_lwk_multisample.norm.flt.vcf```). Replace ```"snp"``` with ```"indel"``` to query indels.
 7. How can you count the number of samples in **ldlr_lwk_multisample.norm.flt.vcf** using **bcftools query**? (Hint: pull up the help menu with the ```--help``` option and check for the appropriate flag)
-8. What is the minor allele frequency of the **11111624G>A** variant in this group of LWK samples?
+8. What is the minor allele frequency of the **11111624G>A** variant in this group of LWK samples? What two metrics in the INFO column are important for determining this?
 
 ### Exercise 4:
 
@@ -102,8 +102,9 @@ Submit the **ldlr_lwk_multisample.norm.flt.vcf** file to the Ensembl Variant Eff
 1. How many amino acids are in the longest protein that can be translated from _LDLR_ (Hint: Refer to Ensembl Genome Browser)
 2. What is the RefSeq accession number and the Ensembl Transcript ID of the MANE Select transcript for (Human) _LDLR_ and how long is the protein sequence from this transcript?
 3. What is the UniProt accession number of (Human) _LDLR_? What is the function of LDLR according to UniProtKB?
+   
 
-
+**Congratulations, you've reached the end of the assessment!**
 
 
 
