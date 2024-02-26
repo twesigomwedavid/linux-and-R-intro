@@ -9,11 +9,11 @@ twesidave:~ tdavid$ pwd
 ```
 
 ### Download the data for the assessment 
-(basically the same way you downloaded the new_data.zip data we’ve been using in class)
+(basically the same way you downloaded the **new_data.zip** data we’ve been using in class)
 
 - Navigate to your assignments directory (create one if missing) within the linux_tutorial directory we created in class. 
 
-- Download the ldlr_lwk.zip dataset for this assessment from https://github.com/twesigomwedavid/linux-and-R-intro/tree/main/data using wget. 
+- Download the **ldlr_lwk.zip** dataset for this assessment from https://github.com/twesigomwedavid/linux-and-R-intro/tree/main/data using wget. 
 
 - MacOS users (you can download directly from the browser and move the file from your Downloads folder to the assignments directory since curl won’t work for a zipped file). Alternatively, install wget by running (in one line): 
 
@@ -28,7 +28,7 @@ twesidave:~ tdavid$ pwd
 1.	Change directory to the **ldlr_lwk** directory (note that we are using small "L" not letter i)
 2.	How many BAM (.bam) files are in the **ldlr_lwk** directory? Write the command(s) you used to determine this (hint: use the | character to combine commands). 
 3.	Are the BAM files in this folder indexed? 
-4.	List all the bam files in the folder and save the output of the **ls** command to a file named bams.txt (Hint: Use the * wildcard and remember to redirect with the > sign). 
+4.	List all the bam files in the folder and save the output of the **ls** command to a file named bams.txt (Hint: Use the * wildcard and remember to redirect with the **>** sign). 
 5.	The **bams.txt** file should now have the name of a bam file on each line. Delete the **_ldlr.bam** pattern from every line in the **bam.txt** file using the **sed** command and save the output to a file named **sample_ids.txt** (Hint: remember the sed syntax: sed 's/pattern_to_be_replaced//' file_name > new_file)  
 6.	Open a new file named index.sh using nano. In this file add the lines below:
 
@@ -67,7 +67,7 @@ bcftools norm -f hg38_chr19.fasta NA19017_ldlr.vcf -o NA19017.norm.vcf
 ```
 
 4.	What does the command above do?
-5.	Check the positions **11092202** and **11092205** again? Are the REF and ALT alleles the same as before (as in NA19017_ldlr.vcf)? If not, could you explain what’s different. 
+5.	Check the positions **11092202** and **11092205** again? Are the REF and ALT alleles the same as before (as in NA19017_ldlr.vcf)? If not, could you explain what’s different? 
 
 
 ### Exercise 3:
