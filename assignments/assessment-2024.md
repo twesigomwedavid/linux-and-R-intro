@@ -96,6 +96,15 @@ bcftools filter -s LowQual -i'QUAL>=30 && AD[*:1]>=15' -g8 -G10 ldlr_lwk_multisa
 Submit the **ldlr_lwk_multisample.norm.flt.vcf** file to the Ensembl Variant Effect Predictor (https://www.ensembl.org/Tools/VEP). Feel free to add (see checkboxes) as many options as you might consider useful. When it comes to the VEP plugins for functionality/pathogenicity predictions, limit these to SIFT, Polyphen, CADD, REVEL, MutationTaster, MutationAssessor, PROVEAN, LRT, and LoFTool (note that some of these plugins are only visible after enabling dbNSFP). More information about these plugins and others can be found here (https://www.ensembl.org/info/docs/tools/vep/script/vep_plugins.html).  
 
 1.	List all the annotations that you’ve selected.
-2.	
+
+### Exercise 5:
+
+1. How many amino acids are in the longest protein that can be translated from _LDLR_ (Hint: Refer to Ensembl Genome Browser)
+2. What is the RefSeq accession number and the Ensembl Transcript ID of the MANE Select transcript for (Human) _LDLR_ and how long is the protein sequence from this transcript?
+3. What is the UniProt accession number of (Human) _LDLR_? What is the function of LDLR according to UniProtKB?
+
+
+
+
 
 
