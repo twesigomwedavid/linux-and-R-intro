@@ -25,11 +25,11 @@ twesidave:~ tdavid$ pwd
 
 ### Exercise 1 
 
-1.	Change directory to the **ldlr_lwk** directory (note that we are using small “L” not letter i)
+1.	Change directory to the **ldlr_lwk** directory (note that we are using small "L" not letter i)
 2.	How many BAM (.bam) files are in the **ldlr_lwk** directory? Write the command(s) you used to determine this (hint: use the | character to combine commands). 
 3.	Are the BAM files in this folder indexed? 
 4.	List all the bam files in the folder and save the output of the **ls** command to a file named bams.txt (Hint: Use the * wildcard and remember to redirect with the > sign). 
-5.	The **bams.txt** file should now have the name of a bam file on each line. Delete the **_ldlr.bam** pattern from every line in the **bam.txt** file using the **sed** command and save the output to a file named **sample_ids.txt** (Hint: remember the sed syntax: sed ‘s/pattern_to_be_replaced//’ file_name > new_file)  
+5.	The **bams.txt** file should now have the name of a bam file on each line. Delete the **_ldlr.bam** pattern from every line in the **bam.txt** file using the **sed** command and save the output to a file named **sample_ids.txt** (Hint: remember the sed syntax: sed 's/pattern_to_be_replaced//' file_name > new_file)  
 6.	Open a new file named index.sh using nano. In this file add the lines below:
 
 ```
@@ -89,11 +89,11 @@ bcftools filter -s LowQual -i'QUAL>=30 && AD[*:1]>=15' -g8 -G10 ldlr_lwk_multisa
 5. How many variants in ldlr_lwk_multisample.norm.flt.vcf passed the filters? 
 6. How many SNPs and how many indels are in the ldlr_lwk_multisample.norm.flt.vcf file? (Hint: you can query SNPS using: ```bcftools query -f'%POS %REF>%ALT\n' -i'type="snp"' ldlr_lwk_multisample.norm.flt.vcf```). Replace ```"snp"``` with ```"indel"``` to query indels.
 7. How can you count the number of samples in ldlr_lwk_multisample.norm.flt.vcf using bcftools query? (Hint: pull up the help menu with the ```--help``` option and check for the appropriate flag)
-8. What is the minor allele frequency of the ***11111624G>A*** variant in this group of LWK samples?
+8. What is the minor allele frequency of the **11111624G>A** variant in this group of LWK samples?
 
 ### Exercise 4:
 
-Submit the **ldlr_lwk_multisample.norm.flt.vcf** file to the Ensembl Variant Effect Predictor (https://www.ensembl.org/Tools/VEP). Feel free to add (see check boxes) as many options as you might consider useful. When it comes to the VEP plugins for functionality/pathogenicity predictions, limit these to SIFT, Polyphen, CADD, REVEL, MutationTaster, MutationAssessor, PROVEAN, LRT, and LoFTool (note that some of these plugins are only visible after enabling dbNSFP). More information about these plugins and others can be found here (https://www.ensembl.org/info/docs/tools/vep/script/vep_plugins.html).  
+Submit the **ldlr_lwk_multisample.norm.flt.vcf** file to the Ensembl Variant Effect Predictor (https://www.ensembl.org/Tools/VEP). Feel free to add (see checkboxes) as many options as you might consider useful. When it comes to the VEP plugins for functionality/pathogenicity predictions, limit these to SIFT, Polyphen, CADD, REVEL, MutationTaster, MutationAssessor, PROVEAN, LRT, and LoFTool (note that some of these plugins are only visible after enabling dbNSFP). More information about these plugins and others can be found here (https://www.ensembl.org/info/docs/tools/vep/script/vep_plugins.html).  
 
 1.	List all the annotations that you’ve selected.
 2.	
