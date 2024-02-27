@@ -108,7 +108,7 @@ Submit the **for_vep_analysis.vcf** file to the Ensembl Variant Effect Predictor
 4. List all the annotations that you’ve selected.
 
 VEP may take some time to run. After it has run successfully, select view results. 
-Filter the results as shown in the screenshot below. Select the Symbol to be LDLR and MANE_SELECT to the _LDLR_ MANE Select transcript accession number that you inferred earlier in this assessment. 
+Filter the results as shown in the screenshot below. Set the Symbol to be LDLR and MANE_SELECT to the _LDLR_ MANE Select transcript accession number that you inferred earlier in this assessment (Hint: it should begin with NM_). 
 
 
 #### ![linux-and-R-intro](../images/vep1.png "VEP1")
