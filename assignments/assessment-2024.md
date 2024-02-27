@@ -139,7 +139,7 @@ NA19475_cov <- read.table("fill this space with the path to NA19475_ldlr_depth.t
 
 3. You can view the contents of NA19017_cov and NA19475_cov in the environment variable panel (top right corner in Rstudio). Notice that the third columns for each comprises the read depths at the corresponding chromosomal locations positions. What is the mean read depth and standard deviation across the read depth distribution for NA19017_cov and NA19475_cov, respectively? (Hint: use the **mean** and **sd** functions in R)
 
-4. Check whether the mean read depths for NA19017 and NA19475 are significantly different using the t-test in R. What is the outcome of the t-test (i.e. can we reject the null hypothesis? what is the p-value/confidence interval?)
+4. Check whether the mean read depths for NA19017 and NA19475 are significantly different using the student's t-test in R. What is the outcome of the t-test (i.e. can we reject the null hypothesis? what is the p-value/confidence interval?)
    
 
 **Congratulations, you've reached the end of the assessment!**
