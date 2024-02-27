@@ -111,13 +111,13 @@ VEP may take some time to run. After it has run successfully, select view result
 Filter the results as shown in the screenshot below. Select the Symbol to be LDLR and MANE_SELECT to the _LDLR_ MANE Select transcript accession number that you inferred earlier in this assessment. 
 
 
-#### ![linux-and-R-intro](images/vep1.png "VEP1")
+#### ![linux-and-R-intro](../images/vep1.png "VEP1")
 
 
 Download the filtered  TXT format (not VCF and not VEP) file from the Download panel on the VEP results page (see screenshot below). Move/copy the downloaded file to your **ldlr_lwk** folder. 
 
 
-#### ![linux-and-R-intro](images/vep2.png "VEP2")
+#### ![linux-and-R-intro](../images/vep2.png "VEP2")
 
 
 5. Rename the downloaded filtered VEP output file to **ldlr_lwk_vep.txt**
