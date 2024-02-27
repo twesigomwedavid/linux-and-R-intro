@@ -93,15 +93,53 @@ bcftools filter -s LowQual -i'QUAL>=30 && AD[*:1]>=15' -g8 -G10 ldlr_lwk_multisa
 
 ### Exercise 4:
 
-Submit the **ldlr_lwk_multisample.norm.flt.vcf** file to the Ensembl Variant Effect Predictor (https://www.ensembl.org/Tools/VEP). Feel free to add (see checkboxes) as many options as you might consider useful. When it comes to the VEP plugins for functionality/pathogenicity predictions, limit these to SIFT, Polyphen, CADD, REVEL, MutationTaster, MutationAssessor, PROVEAN, LRT, and LoFTool (note that some of these plugins are only visible after enabling dbNSFP). More information about these plugins and others can be found here (https://www.ensembl.org/info/docs/tools/vep/script/vep_plugins.html).  
-
-1.	List all the annotations that you’ve selected.
-
-### Exercise 5:
-
 1. How many amino acids are in the longest protein that can be translated from _LDLR_ (Hint: Refer to Ensembl Genome Browser)
 2. What is the RefSeq accession number and the Ensembl Transcript ID of the MANE Select transcript for (Human) _LDLR_ and how long is the protein sequence from this transcript?
 3. What is the UniProt accession number of (Human) _LDLR_? What is the function of LDLR according to UniProtKB?
+
+Run the command below:
+```
+grep -v '#' ldlr_lwk_multisample.norm.flt.vcf | cut -f1-7 | sed 's/$/\t./' > for_vep_analysis.vcf
+```
+This command de-identifies the VCF file so that you can submit the variants to the online VEP without running into ethical issues. 
+
+Submit the **for_vep_analysis.vcf** file to the Ensembl Variant Effect Predictor (go to https://www.ensembl.org/Tools/VEP and launch VEP). Feel free to add (see checkboxes) as many options as you might consider useful. When it comes to the VEP plugins for functionality/pathogenicity predictions, limit these to SIFT, Polyphen, CADD, REVEL, MutationTaster, MutationAssessor, PROVEAN, LRT, and LoFTool (note that some of these plugins are only visible after enabling dbNSFP). More information about these plugins and others can be found here (https://www.ensembl.org/info/docs/tools/vep/script/vep_plugins.html).  
+
+4. List all the annotations that you’ve selected.
+
+VEP may take some time to run. After it has run successfully, select view results. 
+Filter the results as shown in the screenshot below. Select the Symbol to be LDLR and MANE_SELECT to the _LDLR_ MANE Select transcript accession number that you inferred earlier in this assessment. 
+
+Download the filtered  TXT format (not VCF and not VEP) file from the Download panel on the VEP results page (see screenshot below). Move the downloaded file to your **ldlr_lwk** folder. 
+
+5. Rename the downloaded filtered VEP output file to **ldlr_lwk_vep.txt**
+6. What are the counts for the missense, frameshift, stop-gain, splice defect (only splice donor and splice acceptor), inframe insertions/deletions, intronic, 5-prime-UTR, and downstream gene variants?
+
+Load the packages below in R/Rstudio:
+```
+library(RColorBrewer)
+library(ggplot2)
+library(tidyverse)
+library(viridis)
+```
+
+7. Create a vector in Rstudio for the counts you determined above. Create a corresponding vector for the labels (i.e. missense, frameshift, ... etc).
+8. Make a barplot in Rstudio to visualize these data. If the x-axis looks crowded, try the bar plot with horizontal bars. Alternatively, group the non-synonymous variants together.   
+
+
+### Exercise 5:
+1. Run the **samtools depth** command to obtain the read depth for **NA19017_ldlr.bam** and **NA19475_ldlr.bam** and save the output to **NA19017_ldlr_depth.txt** and **NA19475_ldlr_depth.txt**, respectively.
+2. Open a new Rscript file in your Rstudio. Import the NA19017_ldlr_depth.txt and NA19475_ldlr_depth.txt files into your Rstudio.
+
+```
+NA19017_cov <- read.table("fill this space with the path to NA19017_ldlr_depth.txt", header=FALSE, sep="\t", na.strings="NA", dec=".", strip.white=TRUE)
+
+NA19475_cov <- read.table("fill this space with the path to NA19475_ldlr_depth.txt", header=FALSE, sep="\t", na.strings="NA", dec=".", strip.white=TRUE)
+```
+
+3. You can view the contents of NA19017_cov and NA19475_cov in the environment variable panel (top right corner in Rstudio). Notice that the third columns for each comprises the read depths at the corresponding chromosomal locations positions. What is the mean read depth and standard deviation across the read depth distribution for NA19017_cov and NA19475_cov, respectively? (Hint: use the **mean** and **sd** functions in R)
+
+4. Check whether the mean read depths for NA19017 and NA19475 are significantly different using the t-test in R. What is the outcome of the t-test (i.e. can we reject the null hypothesis? what is the p-value/confidence interval?)
    
 
 **Congratulations, you've reached the end of the assessment!**
