@@ -93,7 +93,7 @@ bcftools filter -s LowQual -i'QUAL>=30 && AD[*:1]>=15' -g8 -G10 ldlr_lwk_multisa
 
 ### Exercise 4:
 
-1. How many amino acids are in the longest protein that can be translated from _LDLR_ (Hint: Refer to Ensembl Genome Browser)
+1. How many amino acids are in the longest protein that can be encoded by _LDLR_ (Hint: Refer to Ensembl Genome Browser)
 2. What is the RefSeq accession number and the Ensembl Transcript ID of the MANE Select transcript for (Human) _LDLR_ and how long is the protein sequence from this transcript?
 3. What is the UniProt accession number of (Human) _LDLR_? What is the function of LDLR according to UniProtKB?
 
