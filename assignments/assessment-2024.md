@@ -120,7 +120,7 @@ Download the filtered  TXT format (not VCF and not VEP) file from the Download p
 #### ![linux-and-R-intro](../images/vep2.png "VEP2")
 
 
-5. Rename the downloaded filtered VEP output file to **ldlr_lwk_vep.txt**
+5. Rename the downloaded filtered VEP output file to **ldlr_lwk_vep.txt** using the command-line.
 6. What are the counts for the missense, frameshift, stop-gain, splice defect (only splice donor and splice acceptor), inframe insertions/deletions, intronic, 5-prime-UTR, and downstream gene variants?
 
 Load the packages below in R/Rstudio:
