@@ -133,7 +133,7 @@ library(viridis)
 
 7. Create a vector in Rstudio for the counts you determined above. Create a corresponding vector for the labels (i.e. missense, frameshift, ... etc). Combine these vectors into a simple data frame (see Swirl course or the stats.R file from our lessons and check under Fisher's exact test for reference on how to create vectors and simple data frames from vectors)
    
-8. Make a barplot in Rstudio to visualize these data. If the x-axis looks crowded, try the bar plot with horizontal bars. Alternatively, group the non-synonymous variants together.   
+8. Make a barplot in Rstudio to visualize the variant consequence counts from Qn6 and Qn7 (Feel free to play with various colours and designs). If the x-axis looks crowded, try the bar plot with horizontal bars. Alternatively, group the non-synonymous variants together.   
 
 
 ### Exercise 5:
