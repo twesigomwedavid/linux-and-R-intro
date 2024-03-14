@@ -58,7 +58,7 @@ bcftools mpileup -a AD -f hg38_chr19.fasta NA19017_ldlr.bam -Ou | bcftools call 
 
 1. How many variants are in **NA19017_ldlr.vcf**? 
 2. What is the sequencing read depth at position **11124829**? What are the REF and ALT alleles at this position? What is the allele depth for the REF and ALT alleles at this position?
-3. What variant events are at positions **11092202** and **11092205**? What are the REF and ALT alleles at these positions? 
+3. What variant events are at positions **11092202** and **11092444**? What are the REF and ALT alleles at these positions? 
 
 Run the command:
 
@@ -67,7 +67,7 @@ bcftools norm -f hg38_chr19.fasta NA19017_ldlr.vcf -o NA19017_ldlr.norm.vcf
 ```
 
 4.	What does the command above do?
-5.	Check the positions **11092202** and **11092205** again but this time from the NA19017_ldlr.norm.vcf file? Are the REF and ALT alleles the same as before (as in NA19017_ldlr.vcf)? If not, could you explain what’s different? 
+5.	Check the positions **11092202** and **11092444** again but this time from the NA19017_ldlr.norm.vcf file? Are the REF and ALT alleles the same as before (as in NA19017_ldlr.vcf)? If not, could you explain what’s different? 
 
 
 ### Exercise 3:
