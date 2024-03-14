@@ -152,7 +152,7 @@ NA19475_cov <- read.table("fill this space with the path to NA19475_ldlr_depth.t
 
 4. What statistical test can inform whether the read depth distribution follows a normal distribution? Run this test on the read depths for NA19017_cov to assess whether it follows a normal distribution (report the p-value and conclusion on this)
    
-5. If the test above points to a normal distribution, check whether the mean read depths for NA19017 and NA19475 are significantly different using the student's t-test in R. What is the outcome of the t-test (i.e. can we reject the null hypothesis? What is the p-value/confidence interval?)
+5. If the test above points to a normal distribution, check whether the mean read depths for NA19017 and NA19475 are significantly different using the student's t-test in R. What is the outcome of the t-test (i.e. can we reject the null hypothesis? What is the p-value/confidence interval?). If the test in Q4 does not point to a normal distribution, do the t-test anyway for practice :)
    
 
 **Congratulations, you've reached the end of the assessment!**
