@@ -150,7 +150,7 @@ NA19475_cov <- read.table("fill this space with the path to NA19475_ldlr_depth.t
 
 3. You can view the contents of NA19017_cov and NA19475_cov in the environment variable panel (top right corner in Rstudio). Notice that the third column for each comprises the read depths at the corresponding chromosome 19 positions. What are the **mean read depth** and **standard deviation** across the read depth distribution for NA19017_cov and NA19475_cov, respectively? (Hint: use the **mean** and **sd** functions in R)
 
-4. What statistical test can inform whether the read depth distribution follows a normal distribution? Run this test on the read depths for NA19017_cov to assess whether it follows a normal distribution (report the p-value and conclusion on this)
+4. What statistical test(s) can inform whether the read depth distribution follows a normal distribution? Run this test on the read depths for NA19017_cov to assess whether it follows a normal distribution (report the p-value, if applicable, and conclusion on this)
    
 5. If the test above points to a normal distribution, check whether the mean read depths for NA19017 and NA19475 are significantly different using the student's t-test in R. What is the outcome of the t-test (i.e. can we reject the null hypothesis? What is the p-value/confidence interval?). If the test in Q4 does not point to a normal distribution, do the t-test anyway for practice :)
    
