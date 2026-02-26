@@ -1,0 +1,156 @@
+---
+title: "R can be your best friend"
+output:
+  html_document: default
+  pdf_document: default
+author: David Twesigomwe
+date: "2026-02-26"
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+## Installing/loading packages in R
+
+### Example 1: Installing ggplot2
+
+```{r, echo = TRUE}
+install.packages("ggplot2")
+```
+
+### Loading ggplot2
+
+```{r, echo = TRUE}
+library(ggplot2)
+```
+
+### Example 2: Installing dplyr
+
+```{r, echo = TRUE}
+install.packages("dplyr")
+```
+
+### Loading dplyr
+
+```{r, echo = TRUE}
+library(dplyr)
+```
+
+
+
+## Basic data structures in R
+
+### Variables in R
+
+```{r, echo = TRUE}
+x <- 10
+y <- 20
+x+y
+```
+
+### Vectors
+
+```{r, echo = TRUE}
+v <- c(1, 2, 3, 4, 5)
+v
+```
+
+### Dataframe
+
+```{r, echo = TRUE}
+
+df <- data.frame(
+  name = c("A", "B", "C"),
+  age = c(23, 40, 50),
+  SBP = c(111, 120, 130)
+)
+```
+
+### Data exploration 
+
+```{r, echo = TRUE}
+df
+```
+
+
+```{r, echo = TRUE}
+summary(df)
+```
+
+
+```{r, echo = TRUE}
+dim(df)
+```
+
+
+```{r, echo = TRUE}
+sum(df$age)
+```
+
+
+```{r, echo = TRUE}
+mean(df$SBP)
+```
+
+
+## Example plot in R
+
+### Bar plot
+
+```{r, echo = TRUE}
+barplot(df$SBP)
+```
+
+
+```{r, echo = TRUE}
+barplot(df$SBP, main="Systolic blood pressure", xlab="Patient ID", ylab = "mmHg", names = df$name)
+```
+
+
+## Statistical Testing in R (demo)
+
+### Simulate data
+
+```{r, echo = TRUE}
+BP_cases <- c(rnorm(200, mean = 140, sd = 5))
+BP_controls <- c(rnorm(200, mean=120, sd = 2))
+BP <- data.frame(BP_cases, BP_controls)
+```
+
+### Shapiro-Wilk test
+
+```{r, echo = TRUE}
+shapiro.test(BP_cases)
+```
+###  T-test (students t-test or Welch test)
+
+```{r, echo = TRUE}
+t.test(BP$BP_cases, BP$BP_controls)
+```
+
+## Importing data into R
+
+```{r, echo = TRUE}
+data <- read.csv("/Users/tdavid/Research/collaborations/IDI/rtemis/malaria_data.csv", header=TRUE, sep=",", na.strings="NA")
+```
+
+
+```{r, echo = TRUE}
+summary(data)
+```
+
+
+```{r, echo = TRUE}
+head(data)
+```
+
+
+### Simple linear regression 
+
+```{r, echo = TRUE}
+summary(lm(data$Cases ~ data$Rainfall_mm))
+```
+
