@@ -32,7 +32,7 @@ Write the **sed** command(s) to replace both occurrences of **fasta** in each li
 
 ```
 
-With the same syntax, sed can be used to **remove** unwanted patterns within each line of a given file. Use **sed** to replace all occurrences of fastq in the **sample_manifest2_fastq_2.tsv** file. Save the output to **sample_manifest3.tsv**
+With the same syntax, sed can be used to **remove** unwanted patterns within each line of a given file. Use **sed** to remove all occurrences of **fastq** in the **sample_manifest2_fastq_2.tsv** file. Save the output to **sample_manifest3.tsv**
 
 ```
 
