@@ -1,11 +1,26 @@
 ### File processing - part 1 (using sed)
 
-sed which allows us to make such substitutions automatically. The name sed is an abbreviation of stream editor.
+**sed** allows us to make pattern substitutions automatically. The name **sed** is an abbreviation of **stream editor**.
 
 Change to the `workshop1` directory within `ABI_summer_school_project1` as it will be your working directory for this tutorial. 
-Within `workshop1`, create a symbolic link to the sample_manifest.tsv file found in the folder named `raw_data` (this is a subdirectory of the `ABI_summer_school_project1` directory). 
 
-1. How many lines are in 
+1.  Replace the **fasta** pattern in the file `sample_manifest2.tsv` with **fastq**
+
+```
+sed 's/fasta/fastq/' sample_manifest2.tsv
+```
+
+To save the output to a new file:
+
+```
+sed 's/fasta/fastq/' sample_manifest2.tsv > sample_manifest2_fastq.tsv
+```
+
+To make the replacement within the primary file:
+
+```
+sed -i 's/fasta/fastq/' sample_manifest2.tsv
+```
 
 
 
