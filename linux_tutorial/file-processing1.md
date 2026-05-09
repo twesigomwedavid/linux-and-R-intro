@@ -1,10 +1,10 @@
-## File processing: Part 1 (using sed)
+# File processing: Part 1 (using sed)
 
 **sed** allows us to make pattern substitutions (in each line) automatically. The name **sed** is an abbreviation of **stream editor**.
 
 Change to the `workshop1` directory within `ABI_summer_school_project1` as it will be your working directory for this tutorial. 
 
-### Replacing simple patterns with sed 
+## Replacing simple patterns with sed 
 
 Replace the **fasta** pattern in each line of the file `sample_manifest2.tsv` with **fastq**
 
@@ -38,14 +38,25 @@ With the same syntax, sed can be used to **remove** unwanted patterns within eac
 
 ```
 
-### Adding simple patterns to a file using sed
+## Adding simple patterns to a file using sed
 
-2. Add the model numbers of the `Illumina_NextSeq` and `Illumina_MiSeq` platforms so that they read `Illumina_NextSeq_2000` and `Illumina_MiSeq_100` respectively. 
+Add the model numbers of the `Illumina_NextSeq` and `Illumina_MiSeq` platforms so that they read `Illumina_NextSeq_2000` and `Illumina_MiSeq_100`, respectively. 
+
+```
+
+```
+
+Add an extra column (at the end) to the contents of **sample_manifest3.tsv** with the heading `file_size` and the column values all `.` 
 
 ```
 
 ```
 
+Add a `project_id` column (make it the first column) to **sample_manifest3.tsv**. Use **Pf_AMR** as the values for each row under this column.
+
+```
+
+```
 
 
 ### File processing with awk 
