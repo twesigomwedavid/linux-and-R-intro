@@ -126,8 +126,3 @@ sed -n '/SAMPLE_004/,/SAMPLE_008/p' sample_manifest3.tsv
 ```
 
 
-# File processing: Part 2 (using awk) 
-
-AWK is a programming language named after its three developers: Alfred Aho, Peter J Weinberger and Brian KernIghan. 
-AWK is useful for processing text files and extracting data, particularly when a file is split into columns or delimited by a specific character (e.g. a comma).
-The AWK command/script reads a file line by line and splits each line into columns according to a delimiter character. The default delimiter is a single space character.
