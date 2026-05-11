@@ -48,7 +48,7 @@ awk -F'\t' '!/#/ {print $0}' SAMPLE_001.vcf
 
 ### Extracting more than one column 
 
-Extract the first 5 columns and the 10th column only in `SAMPLE_001.vcf` using awk
+Extract the first 5 columns and the 10th column in `SAMPLE_001.vcf` using awk
 
 ```
 awk 'BEGIN {FS="\t"} {print $1,$2,$3,$4,$5,$10}' SAMPLE_001.vcf
@@ -59,4 +59,43 @@ Note that the delimiter in the output is now a single space character (the defau
 ```
 
 ```
+
+
+What if we do not want to write `$1,$2,$3,$4,$5` in the print function above, how can we specify this range? 
+
+```
+awk 'BEGIN {FS=OFS="\t"} {for (i=1; i<=5; i++) printf "%s%s", $i, OFS ; print $10}' SAMPLE_001.vcf
+```
+
+**Practice**: Extract the first 8 columns in `SAMPLE_001.vcf` using **awk**; be sure to try both approaches above to specify the range of columns 1-8. 
+
+Approach 1:
+```
+
+```
+
+Approach 2:
+```
+
+```
+
+### Converting file delimiter
+
+Convert the delimiter of the file to a comma and save the output as `SAMPLE_001.csv`
+
+```
+
+```
+
+### Determining number of columns in a file
+
+Use awk to determine the number of columns in `SAMPLE_001.vcf`  
+
+```
+awk -F'\t' 'NR==1{print NF}' SAMPLE_001.vcf
+```
+
+**Detour**: Compare with the **sed** approach
+
+
 
