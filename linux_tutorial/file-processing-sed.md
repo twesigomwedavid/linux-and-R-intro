@@ -119,7 +119,7 @@ Use sed to remove empty lines from `file1.txt` and the line containing the headi
 
 ### Extracting text blocks from a file
 
-Using `sample_manifest3.tsv` as a test case, extract the metadata lines of samples 004 through 008 i.e. from line containing SAMPLE_004 to the one containing SAMPLE_008. 
+Using `sample_manifest3.tsv` as a test case, extract the metadata lines of samples **004** through **008** i.e. from line containing `SAMPLE_004` to the one containing `SAMPLE_008`. 
 
 ```
 sed -n '/SAMPLE_004/,/SAMPLE_008/p' sample_manifest3.tsv
