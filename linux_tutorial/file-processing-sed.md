@@ -97,6 +97,12 @@ Add a `project_id` column (make it the first column) to `sample_manifest3.tsv`. 
 sed -n '1p' sample_manifest3.tsv 
 ```
 
+### Counting number of columns in a file
+
+```
+
+```
+
 ### Removing (empty) lines from a file
 
 Using `file1.txt` as a testcase, remove all empty lines.
