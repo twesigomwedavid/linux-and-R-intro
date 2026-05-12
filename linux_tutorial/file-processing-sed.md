@@ -97,6 +97,18 @@ Add a `project_id` column (make it the first column) to `sample_manifest3.tsv`. 
 sed -n '1p' sample_manifest3.tsv 
 ```
 
+### Extracting line(s) with a specific pattern
+
+```
+sed -n '/PATTERN/p' file.txt  
+```
+
+Example:
+
+```
+sed -n '/TRUE/p' sample_manifest3.tsv 
+```
+
 ### Counting number of columns in a file
 
 ```
