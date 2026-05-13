@@ -95,6 +95,24 @@ Use awk to determine the number of columns in `SAMPLE_001.vcf`
 awk -F'\t' 'NR==1{print NF}' SAMPLE_001.vcf
 ```
 
+### Extracting specific rows and columns
+
+Use awk to extract records for participants from YRI in the file `1000G_2504_high_coverage.sequence.index.txt`
+
+Step 1: 
+
+Determine the column number for `POPULATION` using **sed** and/or **grep**
+
+```
+
+```
+
+Step two:
+
+```
+awk -F'\t' '${col_number}=="YRI"' 1000G_2504_high_coverage.sequence.index.txt
+```
+
 **Detour**: Compare with the **sed** approach
 
 
